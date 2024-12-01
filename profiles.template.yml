@@ -1,0 +1,16 @@
+dbt_tripadvisor:
+  outputs:
+    dev:
+      dataset:
+      job_execution_timeout_seconds: 1200
+      job_retries: 1
+      keyfile:
+      location: US
+      gcs_bucket: dbt-python
+      dataproc_region: us-central1
+      method: service-account
+      priority: interactive
+      project:
+      threads: 6
+      type: bigquery
+  target: dev
