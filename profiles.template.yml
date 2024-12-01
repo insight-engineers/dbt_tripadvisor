@@ -6,8 +6,6 @@ dbt_tripadvisor:
       job_retries: 1
       keyfile:
       location: US
-      gcs_bucket: dbt-python
-      dataproc_region: us-central1
       method: service-account
       priority: interactive
       project:
