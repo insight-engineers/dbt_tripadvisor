@@ -1,0 +1,8 @@
+version: 2
+sources:
+  - name: raw_tripadvisor
+    schema: raw_tripadvisor
+    database: tripadvisor-recommendations
+    tables:
+      - name: source_tripadvisor__api_info
+      - name: source_tripadvisor__scrape_info
