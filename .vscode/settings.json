@@ -3,4 +3,5 @@
         "*.sql": "jinja-sql",
         "*.yml": "jinja-yaml"
     },
+    "dbt.perspectiveTheme": "Vintage",
 }
