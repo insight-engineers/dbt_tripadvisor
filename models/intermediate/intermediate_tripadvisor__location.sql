@@ -39,5 +39,18 @@ WITH tripadvisor__location__change_type AS (
     WHERE row_num = 1
 )
 
+, tripadvisor__location__handle_null_values AS(
+    SELECT 
+        COALESCE(location_id, -1) AS location_id
+        , COALESCE(location_name, "Not Defined") AS location_name 
+        , COALESCE(address, "Not Defined") AS address
+        , COALESCE(city, "Not Definec") AS city
+        , COALESCE(country, "Not Defined") AS country
+        , COALESCE(street1, "Not Defined") AS street1
+        , COALESCE(street2, "Not Defined") AS street2        
+    FROM tripadvisor__location__deduplicated
+
+)
+
 SELECT *
-FROM tripadvisor__location__deduplicated
+FROM tripadvisor__location__handle_null_values

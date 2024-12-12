@@ -16,20 +16,13 @@ WITH tripadvisor__review__source_name AS (
         , tel AS phone_number
         , open_hour AS open_hour
         , price_range 
-        , c.element AS cuisine
+        , cuisine.list AS cuisine_array
         , ranking AS location_rank
         , rating AS location_overall_rate
         , review_count 
         , review_count_scraped
-        , e.element.rating AS location_rating
-        , e.element.review_date AS review_date
-        , e.element.review_type AS review_type
-        , e.element.text AS review_description
-        , e.element.title AS review_title
-        , e.element.user AS user
+        , reviews.list AS review_array
     FROM tripadvisor__review__source_name
-    , UNNEST(reviews.list) AS e
-    , UNNEST(cuisine.list) AS c
 )
 
 SELECT *
