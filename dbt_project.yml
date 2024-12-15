@@ -13,9 +13,11 @@ clean-targets:         # directories to be removed by `dbt clean`
   - "target"
   - "dbt_packages"
 
+seeds:
+  +schema: models
+
 models:
   dbt_tripadvisor:
-    # Config indicated by + and applies to all files under models/example/
     staging:
       +materialized: table
       +schema: models
@@ -24,4 +26,3 @@ models:
       +schema: models
     marts:
       +materialized: table
-    

@@ -16,7 +16,7 @@ WITH tripadvisor__review__handle_array_value AS (
         , location_overall_rate
         , review_count
         , review_count_scraped
-        , r.element.rating AS location_rating
+        , r.element.rating AS review_rating
         , r.element.review_date AS review_date
         , r.element.review_type AS review_type
         , r.element.text AS location_description
@@ -41,8 +41,8 @@ WITH tripadvisor__review__handle_array_value AS (
         , CAST(location_overall_rate AS FLOAT64) AS location_overall_rate
         , CAST(review_count AS INTEGER) AS review_count
         , CAST(review_count_scraped AS INTEGER) AS review_count_scraped
-        , CAST(location_rating AS FLOAT64) AS location_rating
-        , FORMAT_DATE('%Y-%m', PARSE_DATE('%B %e, %Y', review_date)) AS review_date
+        , CAST(review_rating AS FLOAT64) AS review_rating
+        , FORMAT_DATE('%Y-%m-%d', PARSE_DATE('%B %e, %Y', review_date)) AS review_date
         , CAST(review_type AS STRING) AS review_type
         , CAST(location_description AS STRING) AS review_description
         , CAST(review_title AS STRING) AS review_title
@@ -71,7 +71,7 @@ WITH tripadvisor__review__handle_array_value AS (
         , COALESCE(location_overall_rate, -1) AS location_overall_rate
         , COALESCE(review_count, -1) AS review_count
         , COALESCE(review_count_scraped, -1) AS review_count_scraped
-        , COALESCE(location_rating, -1) AS location_rating
+        , COALESCE(review_rating, -1) AS review_rating
         , COALESCE(review_date, "3000-01-01") AS review_date
         , COALESCE(review_type, "Not Defined") AS review_type
         , COALESCE(review_description, "Not Defined") AS review_description

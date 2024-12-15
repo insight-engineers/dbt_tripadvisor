@@ -10,4 +10,5 @@ SELECT
     , review_count
     , review_count_scraped
     , price_range
+    , price 
 FROM {{ ref('intermediate_tripadvisor__review') }}

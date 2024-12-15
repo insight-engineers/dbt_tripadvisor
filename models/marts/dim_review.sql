@@ -6,5 +6,5 @@ SELECT DISTINCT
     , review_type
     , review_title
     , review_description
-    , location_rating
+    , review_rating
 FROM {{ ref('intermediate_tripadvisor__review') }}
