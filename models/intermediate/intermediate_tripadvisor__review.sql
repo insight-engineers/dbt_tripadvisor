@@ -1,7 +1,7 @@
 {{ config(materialized='table') }}
 
 WITH tripadvisor__review__handle_array_value AS (
-    SELECT 
+    SELECT
         location_id
         , location_url
         , location_address
@@ -11,24 +11,24 @@ WITH tripadvisor__review__handle_array_value AS (
         , phone_number
         , open_hour
         , price_range
-        , c.element AS cuisine 
+        , c.element AS cuisine
         , location_rank
         , location_overall_rate
         , review_count
         , review_count_scraped
         , r.element.rating AS review_rating
-        , r.element.review_date AS review_date
-        , r.element.review_type AS review_type
+        , r.element.review_date
+        , r.element.review_type
         , r.element.text AS location_description
         , r.element.title AS review_title
-        , r.element.user AS user
+        , r.element.user
     FROM {{ ref('stg_tripadvisor__review') }}
     LEFT JOIN UNNEST(cuisine_array) AS c
     LEFT JOIN UNNEST(review_array) AS r
 )
 
 , tripadvisor__review__change_type AS (
-    SELECT 
+    SELECT
         CAST(location_id AS INTEGER) AS location_id
         , CAST(location_url AS STRING) AS location_url
         , CAST(location_address AS STRING) AS location_address
@@ -51,32 +51,32 @@ WITH tripadvisor__review__handle_array_value AS (
 )
 
 , tripadvisor__review__handle_null_value AS (
-    SELECT 
+    SELECT
         COALESCE(location_id, -1) AS location_id
-        , COALESCE(location_url, "Not Defined") AS location_url
-        , COALESCE(location_address, "Not Defined") AS location_address
-        , COALESCE(location_map, "Not Defined") AS location_map
+        , COALESCE(location_url, 'Not Defined') AS location_url
+        , COALESCE(location_address, 'Not Defined') AS location_address
+        , COALESCE(location_map, 'Not Defined') AS location_map
         , COALESCE(latitude, -1) AS latitude
         , COALESCE(longitude, -1) AS longitude
-        , CASE 
+        , CASE
             WHEN price_range = '$' THEN 'Cheap Eats'
             WHEN price_range = '$$ - $$$' THEN 'Mid-range'
             WHEN price_range = '$$$$' THEN 'Fine Dining'
-            WHEN price_range IS NULL THEN 'Not Defined'
+            WHEN price_range IS null THEN 'Not Defined'
             ELSE 'Unknown'
         END AS price
-        , COALESCE(price_range, "Not Defined") price_range
-        , COALESCE(cuisine, "Not Defined") AS cuisine
+        , COALESCE(price_range, 'Not Defined') AS price_range
+        , COALESCE(cuisine, 'Not Defined') AS cuisine
         , COALESCE(location_rank, -1) AS location_rank
         , COALESCE(location_overall_rate, -1) AS location_overall_rate
         , COALESCE(review_count, -1) AS review_count
         , COALESCE(review_count_scraped, -1) AS review_count_scraped
         , COALESCE(review_rating, -1) AS review_rating
-        , COALESCE(review_date, "3000-01-01") AS review_date
-        , COALESCE(review_type, "Not Defined") AS review_type
-        , COALESCE(review_description, "Not Defined") AS review_description
-        , COALESCE(review_title, "Not Defined") AS review_title
-        , COALESCE(user, "Not Defined") AS user
+        , COALESCE(review_date, '3000-01-01') AS review_date
+        , COALESCE(review_type, 'Not Defined') AS review_type
+        , COALESCE(review_description, 'Not Defined') AS review_description
+        , COALESCE(review_title, 'Not Defined') AS review_title
+        , COALESCE(user, 'Not Defined') AS user
     FROM tripadvisor__review__change_type
 )
 
