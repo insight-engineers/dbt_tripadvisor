@@ -13,10 +13,23 @@ WITH tripadvisor__location__change_type AS (
     FROM {{ ref("stg_tripadvisor__location") }}
 )
 
+, tripadvisor__location__remove_vietnammese_accent AS (
+    SELECT
+        location_id
+        , location_name
+        , distance
+        , {{ remove_vietnamese_accents('address') }} AS address
+        , {{ remove_vietnamese_accents('city') }} AS city
+        , {{ remove_vietnamese_accents('country') }} AS country
+        , {{ remove_vietnamese_accents('street1') }} AS street1
+        , {{ remove_vietnamese_accents('street2') }} AS street2
+    FROM tripadvisor__location__change_type
+)
+
 , tripadvisor__location__remove_another_city AS (
     SELECT *
-    FROM tripadvisor__location__change_type
-    WHERE city IN ("Ho Chi Minh City", "Di An")
+    FROM tripadvisor__location__remove_vietnammese_accent
+    WHERE city LIKE '%Ho Chi Minh%' 
 )
 
 , tripadvisor__location__ranked AS (
