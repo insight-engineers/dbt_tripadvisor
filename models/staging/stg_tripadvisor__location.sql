@@ -2,7 +2,7 @@
 
 WITH tripadvisor__location__source_name AS (
     SELECT *
-    FROM {{ source('raw_tripadvisor', 'source_tripadvisor__api_info') }}
+    FROM {{ source('raw_tripadvisor', 'source_tripadvisor__api_info_v2') }}
 )
 
 , tripadvisor__location__rename_column AS (
