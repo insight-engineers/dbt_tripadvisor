@@ -2,7 +2,7 @@
 
 WITH tripadvisor__review__source_name AS (
     SELECT *
-    FROM {{ source('raw_tripadvisor', 'source_tripadvisor__scrape_info') }}
+    FROM {{ source('raw_tripadvisor', 'source_tripadvisor__scrape_info_v2') }}
 )
 
 , tripadvisor__review__rename_column AS (
@@ -16,7 +16,7 @@ WITH tripadvisor__review__source_name AS (
         , tel AS phone_number
         , open_hour
         , price_range
-        , cuisine.list AS cuisine_array
+        , cuisine.list.list AS cuisine_array
         , ranking AS location_rank
         , rating AS location_overall_rate
         , review_count

@@ -29,7 +29,7 @@ WITH tripadvisor__location__change_type AS (
 , tripadvisor__location__remove_another_city AS (
     SELECT *
     FROM tripadvisor__location__remove_vietnammese_accent
-    WHERE city LIKE '%Ho Chi Minh%' 
+    WHERE city LIKE '%Ho Chi Minh%'
 )
 
 , tripadvisor__location__ranked AS (
@@ -55,12 +55,12 @@ WITH tripadvisor__location__change_type AS (
 , tripadvisor__location__handle_null_values AS (
     SELECT
         COALESCE(location_id, -1) AS location_id
-        , COALESCE(location_name, "Not Defined") AS location_name
-        , COALESCE(address, "Not Defined") AS address
-        , COALESCE(city, "Not Definec") AS city
-        , COALESCE(country, "Not Defined") AS country
-        , COALESCE(street1, "Not Defined") AS street1
-        , COALESCE(street2, "Not Defined") AS street2
+        , COALESCE(location_name, 'Not Defined') AS location_name
+        , COALESCE(address, 'Not Defined') AS address
+        , COALESCE(city, 'Not Definec') AS city
+        , COALESCE(country, 'Not Defined') AS country
+        , COALESCE(street1, 'Not Defined') AS street1
+        , COALESCE(street2, 'Not Defined') AS street2
     FROM tripadvisor__location__deduplicated
 
 )

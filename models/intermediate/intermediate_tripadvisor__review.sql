@@ -1,6 +1,6 @@
 {{ config(materialized='table') }}
 
-WITH tripadvisor__review__handle_array_value AS (
+WITH tripadvisor__review__handle_special_values AS (
     SELECT
         location_id
         , location_url
@@ -11,17 +11,19 @@ WITH tripadvisor__review__handle_array_value AS (
         , phone_number
         , open_hour
         , price_range
-        , c.element AS cuisine
+        , c.element.element AS cuisine
         , location_rank
         , location_overall_rate
         , review_count
         , review_count_scraped
         , r.element.rating AS review_rating
-        , r.element.review_date
         , r.element.review_type
         , r.element.text AS location_description
         , r.element.title AS review_title
         , r.element.user
+        , r.element.username
+        , r.element.country AS user_country
+        , FORMAT_DATE('%Y-%m-%d', PARSE_DATE('%B %e, %Y', r.element.review_date)) AS review_date
     FROM {{ ref('stg_tripadvisor__review') }}
     LEFT JOIN UNNEST(cuisine_array) AS c
     LEFT JOIN UNNEST(review_array) AS r
@@ -42,12 +44,14 @@ WITH tripadvisor__review__handle_array_value AS (
         , CAST(review_count AS INTEGER) AS review_count
         , CAST(review_count_scraped AS INTEGER) AS review_count_scraped
         , CAST(review_rating AS FLOAT64) AS review_rating
-        , FORMAT_DATE('%Y-%m-%d', PARSE_DATE('%B %e, %Y', review_date)) AS review_date
+        , CAST(review_date AS DATE) AS review_date
         , CAST(review_type AS STRING) AS review_type
         , CAST(location_description AS STRING) AS review_description
         , CAST(review_title AS STRING) AS review_title
         , CAST(user AS STRING) AS user
-    FROM tripadvisor__review__handle_array_value
+        , CAST(username AS STRING) AS username
+        , CAST(user_country AS STRING) AS user_country
+    FROM tripadvisor__review__handle_special_values
 )
 
 , tripadvisor__review__handle_null_value AS (
@@ -77,6 +81,8 @@ WITH tripadvisor__review__handle_array_value AS (
         , COALESCE(review_description, 'Not Defined') AS review_description
         , COALESCE(review_title, 'Not Defined') AS review_title
         , COALESCE(user, 'Not Defined') AS user
+        , COALESCE(username, 'Not Defined') AS username
+        , COALESCE(user_country, 'Not Defined') AS user_country
     FROM tripadvisor__review__change_type
 )
 

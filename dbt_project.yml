@@ -26,3 +26,7 @@ models:
       +schema: models
     marts:
       +materialized: table
+
+vars:
+  min_date: null
+  max_date: null
