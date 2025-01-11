@@ -1,4 +1,4 @@
-{{ config(materialized='table') }}
+{{ config(materialized='view') }}
 
 WITH tripadvisor__review__handle_special_values AS (
     SELECT
