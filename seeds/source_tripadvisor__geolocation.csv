@@ -1,254 +1,407 @@
-﻿district_name,district_codename,ward_name,ward_codename,name,latitude,longitude
-Huyện Bình Chánh,huyen_binh_chanh,Thị trấn Tân Túc,thi_tran_tan_tuc,Thị trấn Tân Túc,10.6901149,106.5826774
-Huyện Cần Giờ,huyen_can_gio,Thị trấn Cần Thạnh,thi_tran_can_thanh,Thị trấn Cần Thạnh,10.4147541,106.9714754
-Huyện Củ Chi,huyen_cu_chi,Thị trấn Củ Chi,thi_tran_cu_chi,Cu Chi Town,10.9744159,106.4948968
-Huyện Hóc Môn,huyen_hoc_mon,Thị trấn Hóc Môn,thi_tran_hoc_mon,Hoc Mon Town,10.8860463,106.5927134
-Huyện Nhà Bè,huyen_nha_be,Thị trấn Nhà Bè,thi_tran_nha_be,Nha Be Town,10.6956953,106.7395591
-Quận 1,quan_1,Phường Bến Nghé,phuong_ben_nghe,Ben Nghe Ward,10.7801495,106.7032527
-Quận 1,quan_1,Phường Cầu Kho,phuong_cau_kho,Cau Kho Ward,10.7581211,106.6890049
-Quận 1,quan_1,Phường Cầu Ông Lãnh,phuong_cau_ong_lanh,Cau Ong Lanh Ward,10.7654571,106.6967082
-Quận 1,quan_1,Phường Cô Giang,phuong_co_giang,Co Giang Ward,10.7622107,106.6934252
-Quận 1,quan_1,Phường Đa Kao,phuong_da_kao,Da Kao Ward,10.7888339,106.6987037
-Quận 1,quan_1,Phường Nguyễn Cư Trinh,phuong_nguyen_cu_trinh,Nguyen Cu Trinh Ward,10.7630751,106.6863012
-Quận 1,quan_1,Phường Nguyễn Thái Bình,phuong_nguyen_thai_binh,Nguyen Thai Binh Ward,10.7686402,106.700592
-Quận 1,quan_1,Phường Phạm Ngũ Lão,phuong_pham_ngu_lao,Pham Ngu Lao Ward,10.7673332,106.6905498
-Quận 1,quan_1,Phường Tân Định,phuong_tan_dinh,Tan Dinh Ward,10.7925016,106.6907644
-Quận 10,quan_10,Phường 01,phuong_01,Ward 01,10.76536907,106.6789895
-Quận 10,quan_10,Phường 02,phuong_02,Ward 02,10.76331015,106.6742355
-Quận 10,quan_10,Phường 03,phuong_03,Ward 03,10.76181666,106.671478
-Quận 10,quan_10,Phường 04,phuong_04,Ward 04,10.76347917,106.6695202
-Quận 10,quan_10,Phường 05,phuong_05,Ward 05,10.76159371,106.6668064
-Quận 10,quan_10,Phường 06,phuong_06,Ward 06,10.76218067,106.6634358
-Quận 10,quan_10,Phường 07,phuong_07,Ward 07,10.76150311,106.6614259
-Quận 10,quan_10,Phường 08,phuong_08,Ward 08,10.76450436,106.665418
-Quận 10,quan_10,Phường 09,phuong_09,Ward 09,10.76707478,106.6708272
-Quận 10,quan_10,Phường 10,phuong_10,Ward 10,10.77192652,106.6676731
-Quận 10,quan_10,Phường 11,phuong_11,Ward 11,10.7754643,106.6811183
-Quận 10,quan_10,Phường 12,phuong_12,Ward 12,10.775853,106.6749832
-Quận 10,quan_10,Phường 13,phuong_13,Ward 13,10.77946026,106.6704676
-Quận 10,quan_10,Phường 14,phuong_14,Ward 14,10.7722259,106.6610778
-Quận 10,quan_10,Phường 15,phuong_15,Ward 15,10.78215166,106.6649737
-Quận 11,quan_11,Phường 01,phuong_01,Ward 01,10.75674745,106.6392035
-Quận 11,quan_11,Phường 02,phuong_02,Ward 02,10.75690499,106.6441271
-Quận 11,quan_11,Phường 03,phuong_03,Ward 03,10.7630173,106.6386728
-Quận 11,quan_11,Phường 04,phuong_04,Ward 04,10.7580874,106.6553296
-Quận 11,quan_11,Phường 05,phuong_05,Ward 05,10.77260717,106.6453724
-Quận 11,quan_11,Phường 06,phuong_06,Ward 06,10.75982593,106.6548154
-Quận 11,quan_11,Phường 07,phuong_07,Ward 07,10.76081835,106.659634
-Quận 11,quan_11,Phường 08,phuong_08,Ward 08,10.76024086,106.648694
-Quận 11,quan_11,Phường 09,phuong_09,Ward 09,10.76160986,106.6454311
-Quận 11,quan_11,Phường 10,phuong_10,Ward 10,10.76482806,106.6435158
-Quận 11,quan_11,Phường 11,phuong_11,Ward 11,10.76741611,106.6515559
-Quận 11,quan_11,Phường 12,phuong_12,Ward 12,10.76139516,106.6531089
-Quận 11,quan_11,Phường 13,phuong_13,Ward 13,10.7641949,106.6536682
-Quận 11,quan_11,Phường 14,phuong_14,Ward 14,10.76982252,106.6484932
-Quận 11,quan_11,Phường 15,phuong_15,Ward 15,10.77293116,106.65518
-Quận 11,quan_11,Phường 16,phuong_16,Phường 16,10.75552863,106.6479139
-Quận 12,quan_12,Phường An Phú Đông,phuong_an_phu_dong,Phường An Phú Đông,10.8588271,106.6966734
-Quận 12,quan_12,Phường Đông Hưng Thuận,phuong_dong_hung_thuan,Phường Đông Hưng Thuận,10.8428486,106.6309776
-Quận 12,quan_12,Phường Hiệp Thành,phuong_hiep_thanh,Phường Hiệp Thành,10.881053,106.6388025
-Quận 12,quan_12,Phường Tân Chánh Hiệp,phuong_tan_chanh_hiep,Phường Tân Chánh Hiệp,10.8678527,106.6231544
-Quận 12,quan_12,Phường Tân Hưng Thuận,phuong_tan_hung_thuan,Phường Tân Hưng Thuận,10.8380911,106.6235253
-Quận 12,quan_12,Phường Tân Thới Hiệp,phuong_tan_thoi_hiep,Phường Tân Thới Hiệp,10.8616587,106.64156
-Quận 12,quan_12,Phường Tân Thới Nhất,phuong_tan_thoi_nhat,Phường Tân Thới Nhất,10.8306721,106.6151355
-Quận 12,quan_12,Phường Thạnh Lộc,phuong_thanh_loc,Phường Thạnh Lộc,10.8731713,106.6860324
-Quận 12,quan_12,Phường Thạnh Xuân,phuong_thanh_xuan,Phường Thạnh Xuân,10.8719549,106.6726095
-Quận 12,quan_12,Phường Thới An,phuong_thoi_an,Phường Thới An,10.8786809,106.6521484
-Quận 12,quan_12,Phường Trung Mỹ Tây,phuong_trung_my_tay,Phường Trung Mỹ Tây,10.8549056,106.6146723
-Quận 3,quan_3,Phường 01,phuong_01,Ward 01,10.76896161,106.6774231
-Quận 3,quan_3,Phường 02,phuong_02,Ward 02,10.76837033,106.6811111
-Quận 3,quan_3,Phường 03,phuong_03,Ward 03,10.7710522,106.6793459
-Quận 3,quan_3,Phường 04,phuong_04,Ward 04,10.77361493,106.6826072
-Quận 3,quan_3,Phường 05,phuong_05,Ward 05,10.77163343,106.6860676
-Quận 3,quan_3,Phường 06,phuong_06,Ward 06,10.78236717,106.6922324
-Quận 3,quan_3,Phường 08,phuong_08,Ward 08,10.79009847,106.6861365
-Quận 3,quan_3,Phường 09,phuong_09,Ward 09,10.782974,106.6794523
-Quận 3,quan_3,Phường 10,phuong_10,Ward 10,10.78266809,106.6746166
-Quận 3,quan_3,Phường 11,phuong_11,Ward 11,10.78560575,106.6706617
-Quận 3,quan_3,Phường 12,phuong_12,Ward 12,10.78801428,106.673534
-Quận 3,quan_3,Phường 13,phuong_13,Ward 13,10.78699477,106.6782708
-Quận 3,quan_3,Phường 14,phuong_14,Ward 14,10.78918166,106.6777055
-Quận 3,quan_3,Phường Võ Thị Sáu,phuong_vo_thi_sau,Vo Thi Sau Ward,10.78349354,106.6913416
-Quận 4,quan_4,Phường 01,phuong_01,Ward 01,10.75461835,106.691152
-Quận 4,quan_4,Phường 02,phuong_02,Ward 02,10.75724294,106.6964909
-Quận 4,quan_4,Phường 03,phuong_03,Ward 03,10.75481866,106.6993881
-Quận 4,quan_4,Phường 04,phuong_04,Ward 04,10.75660137,106.7032655
-Quận 4,quan_4,Phường 06,phuong_06,Ward 06,10.76103739,106.6999054
-Quận 4,quan_4,Phường 08,phuong_08,Ward 08,10.76093957,106.7055575
-Quận 4,quan_4,Phường 09,phuong_09,Ward 09,10.76341153,106.7027842
-Quận 4,quan_4,Phường 10,phuong_10,Ward 10,10.76078187,106.7056168
-Quận 4,quan_4,Phường 13,phuong_13,Ward 13,10.76406674,106.7079407
-Quận 4,quan_4,Phường 14,phuong_14,Ward 14,10.75819612,106.708799
-Quận 4,quan_4,Phường 15,phuong_15,Ward 15,10.75463232,106.7075818
-Quận 4,quan_4,Phường 16,phuong_16,Ward 16,10.75569284,106.7123241
-Quận 4,quan_4,Phường 18,phuong_18,Ward 18,10.75792672,106.7165223
-Quận 5,quan_5,Phường 01,phuong_01,Ward 01,10.75392867,106.6821678
-Quận 5,quan_5,Phường 02,phuong_02,Ward 02,10.75738114,106.6819398
-Quận 5,quan_5,Phường 03,phuong_03,Ward 03,10.75774202,106.6760344
-Quận 5,quan_5,Phường 04,phuong_04,Ward 04,10.76210529,106.680894
-Quận 5,quan_5,Phường 05,phuong_05,Ward 05,10.75147012,106.6747463
-Quận 5,quan_5,Phường 06,phuong_06,Ward 06,10.75139633,106.6698968
-Quận 5,quan_5,Phường 07,phuong_07,Ward 07,10.75421897,106.6722464
-Quận 5,quan_5,Phường 08,phuong_08,Ward 08,10.75623255,106.6714695
-Quận 5,quan_5,Phường 09,phuong_09,Ward 09,10.75894203,106.6708517
-Quận 5,quan_5,Phường 10,phuong_10,Ward 10,10.75111177,106.6630412
-Quận 5,quan_5,Phường 11,phuong_11,Ward 11,10.75401036,106.6629207
-Quận 5,quan_5,Phường 12,phuong_12,Ward 12,10.75700473,106.6609433
-Quận 5,quan_5,Phường 13,phuong_13,Ward 13,10.74962556,106.6569257
-Quận 5,quan_5,Phường 14,phuong_14,Ward 14,10.75278701,106.6549731
-Quận 6,quan_6,Phường 01,phuong_01,Ward 01,10.75386362,106.6456155
-Quận 6,quan_6,Phường 02,phuong_02,Ward 02,10.75044767,106.6502288
-Quận 6,quan_6,Phường 03,phuong_03,Ward 03,10.74366418,106.6470274
-Quận 6,quan_6,Phường 04,phuong_04,Ward 04,10.74634743,106.6451454
-Quận 6,quan_6,Phường 05,phuong_05,Ward 05,10.74883498,106.6430903
-Quận 6,quan_6,Phường 06,phuong_06,Ward 06,10.75228082,106.645476
-Quận 6,quan_6,Phường 07,phuong_07,Ward 07,10.73892202,106.6397333
-Quận 6,quan_6,Phường 08,phuong_08,Ward 08,10.74383475,106.6392645
-Quận 6,quan_6,Phường 09,phuong_09,Ward 09,10.75300489,106.6399541
-Quận 6,quan_6,Phường 10,phuong_10,Ward 10,10.73749009,106.6266783
-Quận 6,quan_6,Phường 11,phuong_11,Ward 11,10.74543174,106.6324863
-Quận 6,quan_6,Phường 12,phuong_12,Ward 12,10.75034554,106.6335557
-Quận 6,quan_6,Phường 13,phuong_13,Ward 13,10.7520141,106.6264604
-Quận 6,quan_6,Phường 14,phuong_14,Ward 14,10.75805349,106.631177
-Quận 7,quan_7,Phường Bình Thuận,phuong_binh_thuan,Binh Thuan Ward,10.7428374,106.7230796
-Quận 7,quan_7,Phường Phú Mỹ,phuong_phu_my,Phu My Ward,10.7061532,106.7378425
-Quận 7,quan_7,Phường Phú Thuận,phuong_phu_thuan,Phu Thuan Ward,10.7294201,106.7348597
-Quận 7,quan_7,Phường Tân Hưng,phuong_tan_hung,Tan Hung Ward,10.7449034,106.6981887
-Quận 7,quan_7,Phường Tân Kiểng,phuong_tan_kieng,Tan Kieng Ward,10.7491196,106.7104625
-Quận 7,quan_7,Phường Tân Phong,phuong_tan_phong,Tan Phong Ward,10.7303569,106.7055701
-Quận 7,quan_7,Phường Tân Quy,phuong_tan_quy,Tan Quy Ward,10.7941456,106.6222286
-Quận 7,quan_7,Phường Tân Thuận Đông,phuong_tan_thuan_dong,Tan Thuan Dong Ward,10.745084,106.7316294
-Quận 7,quan_7,Phường Tân Thuận Tây,phuong_tan_thuan_tay,Tan Thuan Tay Ward,10.7508483,106.7217063
-Quận 8,quan_8,Phường 01,phuong_01,Ward 01,10.74545116,106.690539
-Quận 8,quan_8,Phường 02,phuong_02,Ward 02,10.74743247,106.6845308
-Quận 8,quan_8,Phường 03,phuong_03,Ward 03,10.74196239,106.6837613
-Quận 8,quan_8,Phường 04,phuong_04,Ward 04,10.74035373,106.6769973
-Quận 8,quan_8,Phường 05,phuong_05,Ward 05,10.73623337,106.6720591
-Quận 8,quan_8,Phường 06,phuong_06,Ward 06,10.73449939,106.6491386
-Quận 8,quan_8,Phường 07,phuong_07,Ward 07,10.70298196,106.6226463
-Quận 8,quan_8,Phường 08,phuong_08,Ward 08,10.74970805,106.679751
-Quận 8,quan_8,Phường 09,phuong_09,Ward 09,10.74609856,106.6720212
-Quận 8,quan_8,Phường 10,phuong_10,Ward 10,10.74619448,106.6642428
-Quận 8,quan_8,Phường 11,phuong_11,Ward 11,10.74934089,106.6669786
-Quận 8,quan_8,Phường 12,phuong_12,Ward 12,10.74312191,106.6559494
-Quận 8,quan_8,Phường 13,phuong_13,Ward 13,10.74543036,106.6552626
-Quận 8,quan_8,Phường 14,phuong_14,Ward 14,10.73868414,106.6464114
-Quận 8,quan_8,Phường 15,phuong_15,Ward 15,10.72456843,106.6326582
-Quận 8,quan_8,Phường 16,phuong_16,Phường 16,10.71320386,106.6220816
-Quận Bình Tân,quan_binh_tan,Phường An Lạc,phuong_an_lac,An Lac Ward,10.7249151,106.6129429
-Quận Bình Tân,quan_binh_tan,Phường An Lạc A,phuong_an_lac_a,An Lac A Ward,10.7487261,106.6224286
-Quận Bình Tân,quan_binh_tan,Phường Bình Hưng Hòa,phuong_binh_hung_hoa,Binh Hung Hoa Ward,10.8077196,106.6034316
-Quận Bình Tân,quan_binh_tan,Phường Bình Hưng Hoà A,phuong_binh_hung_hoa_a,Binh Hung Hoa A Ward,10.784004,106.6078353
-Quận Bình Tân,quan_binh_tan,Phường Bình Hưng Hoà B,phuong_binh_hung_hoa_b,Binh Hung Hoa B Ward,10.801923,106.5913656
-Quận Bình Tân,quan_binh_tan,Phường Bình Trị Đông,phuong_binh_tri_dong,Binh Tri Dong Ward,10.7663912,106.6167997
-Quận Bình Tân,quan_binh_tan,Phường Bình Trị Đông A,phuong_binh_tri_dong_a,Binh Tri Dong A Ward,10.7693609,106.5956394
-Quận Bình Tân,quan_binh_tan,Phường Bình Trị Đông B,phuong_binh_tri_dong_b,Binh Tri Dong B Ward,10.7504813,106.6128383
-Quận Bình Tân,quan_binh_tan,Phường Tân Tạo,phuong_tan_tao,Tan Tao Ward,10.7610471,106.58872
-Quận Bình Tân,quan_binh_tan,Phường Tân Tạo A,phuong_tan_tao_a,Tan Tao A Ward,10.7547879,106.584389
-Quận Bình Thạnh,quan_binh_thanh,Phường 01,phuong_01,Ward 01,10.79853141,106.6976885
-Quận Bình Thạnh,quan_binh_thanh,Phường 02,phuong_02,Ward 02,10.80157207,106.7010362
-Quận Bình Thạnh,quan_binh_thanh,Phường 03,phuong_03,Ward 03,10.79987597,106.6946788
-Quận Bình Thạnh,quan_binh_thanh,Phường 05,phuong_05,Ward 05,10.81387904,106.6875571
-Quận Bình Thạnh,quan_binh_thanh,Phường 06,phuong_06,Ward 06,10.80722167,106.6867689
-Quận Bình Thạnh,quan_binh_thanh,Phường 07,phuong_07,Ward 07,10.80934014,106.6924514
-Quận Bình Thạnh,quan_binh_thanh,Phường 11,phuong_11,Ward 11,10.8176007,106.6950159
-Quận Bình Thạnh,quan_binh_thanh,Phường 12,phuong_12,Ward 12,10.81353811,106.7001864
-Quận Bình Thạnh,quan_binh_thanh,Phường 13,phuong_13,Ward 13,10.82413669,106.7051518
-Quận Bình Thạnh,quan_binh_thanh,Phường 14,phuong_14,Ward 14,10.8050635,106.6976723
-Quận Bình Thạnh,quan_binh_thanh,Phường 15,phuong_15,Ward 15,10.79649217,106.7021036
-Quận Bình Thạnh,quan_binh_thanh,Phường 17,phuong_17,Ward 17,10.79535385,106.7075122
-Quận Bình Thạnh,quan_binh_thanh,Phường 19,phuong_19,Ward 19,10.79029943,106.7102196
-Quận Bình Thạnh,quan_binh_thanh,Phường 21,phuong_21,Ward 21,10.79757865,106.7123596
-Quận Bình Thạnh,quan_binh_thanh,Phường 22,phuong_22,Ward 22,10.79159645,106.7191314
-Quận Bình Thạnh,quan_binh_thanh,Phường 24,phuong_24,Ward 24,10.805654,106.7168965
-Quận Bình Thạnh,quan_binh_thanh,Phường 25,phuong_25,Ward 25,10.80682691,106.716397
-Quận Bình Thạnh,quan_binh_thanh,Phường 26,phuong_26,Ward 26,10.81697229,106.7066416
-Quận Bình Thạnh,quan_binh_thanh,Phường 27,phuong_27,Ward 27,10.81652736,106.7209974
-Quận Bình Thạnh,quan_binh_thanh,Phường 28,phuong_28,Ward 28,10.81937398,106.7439566
-Quận Gò Vấp,quan_go_vap,Phường 01,phuong_01,Ward 01,10.818684,106.6918231
-Quận Gò Vấp,quan_go_vap,Phường 03,phuong_03,Ward 03,10.81547905,106.6772902
-Quận Gò Vấp,quan_go_vap,Phường 04,phuong_04,Ward 04,10.82315882,106.6849056
-Quận Gò Vấp,quan_go_vap,Phường 05,phuong_05,Ward 05,10.82822058,106.6926285
-Quận Gò Vấp,quan_go_vap,Phường 07,phuong_07,Ward 07,10.8283457,106.6842501
-Quận Gò Vấp,quan_go_vap,Phường 10,phuong_10,Ward 10,10.77217947,106.667716
-Quận Gò Vấp,quan_go_vap,Phường 11,phuong_11,Ward 11,10.8416184,106.6617548
-Quận Gò Vấp,quan_go_vap,Phường 12,phuong_12,Ward 12,10.83384013,106.6400116
-Quận Gò Vấp,quan_go_vap,Phường 13,phuong_13,Ward 13,10.85498795,106.6589798
-Quận Gò Vấp,quan_go_vap,Phường 14,phuong_14,Ward 14,10.84844708,106.6429564
-Quận Gò Vấp,quan_go_vap,Phường 15,phuong_15,Ward 15,10.85241204,106.6696558
-Quận Gò Vấp,quan_go_vap,Phường 16,phuong_16,Ward 16,10.84750897,106.6624356
-Quận Gò Vấp,quan_go_vap,Phường 17,phuong_17,Ward 17,10.83900703,106.6780578
-Quận Gò Vấp,quan_go_vap,Phường 6,phuong_6,Ward 06,10.8452951,106.6833654
-Quận Gò Vấp,quan_go_vap,Phường 8,phuong_8,Ward 08,10.84155662,106.6529881
-Quận Gò Vấp,quan_go_vap,Phường 9,phuong_9,Ward 09,10.84762521,106.6527293
-Quận Phú Nhuận,quan_phu_nhuan,Phường 01,phuong_01,Ward 01,10.79834512,106.6825162
-Quận Phú Nhuận,quan_phu_nhuan,Phường 02,phuong_02,Ward 02,10.80081787,106.6841301
-Quận Phú Nhuận,quan_phu_nhuan,Phường 03,phuong_03,Ward 03,10.80149244,106.682628
-Quận Phú Nhuận,quan_phu_nhuan,Phường 04,phuong_04,Ward 04,10.80710575,106.6783374
-Quận Phú Nhuận,quan_phu_nhuan,Phường 05,phuong_05,Ward 05,10.80575689,106.6826504
-Quận Phú Nhuận,quan_phu_nhuan,Phường 07,phuong_07,Ward 07,10.80118082,106.6898644
-Quận Phú Nhuận,quan_phu_nhuan,Phường 08,phuong_08,Ward 08,10.79748494,106.6757307
-Quận Phú Nhuận,quan_phu_nhuan,Phường 09,phuong_09,Ward 09,10.80653222,106.6746647
-Quận Phú Nhuận,quan_phu_nhuan,Phường 10,phuong_10,Ward 10,10.79582277,106.670645
-Quận Phú Nhuận,quan_phu_nhuan,Phường 11,phuong_11,Ward 11,10.79341372,106.6739463
-Quận Phú Nhuận,quan_phu_nhuan,Phường 13,phuong_13,Ward 13,10.78980613,106.6699361
-Quận Phú Nhuận,quan_phu_nhuan,Phường 15,phuong_15,Ward 15,10.7962765,106.6800722
-Quận Phú Nhuận,quan_phu_nhuan,Phường 17,phuong_17,Ward 17,10.79393107,106.6826427
-Quận Tân Bình,quan_tan_binh,Phường 01,phuong_01,Ward 01,10.79632767,106.6665319
-Quận Tân Bình,quan_tan_binh,Phường 02,phuong_02,Ward 02,10.81268917,106.6657798
-Quận Tân Bình,quan_tan_binh,Phường 03,phuong_03,Ward 03,10.7947686,106.662192
-Quận Tân Bình,quan_tan_binh,Phường 04,phuong_04,Ward 04,10.80812789,106.6564488
-Quận Tân Bình,quan_tan_binh,Phường 05,phuong_05,Ward 05,10.7901928,106.6609445
-Quận Tân Bình,quan_tan_binh,Phường 06,phuong_06,Ward 06,10.79266079,106.6616127
-Quận Tân Bình,quan_tan_binh,Phường 07,phuong_07,Ward 07,10.78848392,106.6562822
-Quận Tân Bình,quan_tan_binh,Phường 08,phuong_08,Ward 08,10.78322243,106.6520745
-Quận Tân Bình,quan_tan_binh,Phường 09,phuong_09,Ward 09,10.77541398,106.6511717
-Quận Tân Bình,quan_tan_binh,Phường 10,phuong_10,Ward 10,10.78210891,106.6471799
-Quận Tân Bình,quan_tan_binh,Phường 11,phuong_11,Ward 11,10.753631,106.6626977
-Quận Tân Bình,quan_tan_binh,Phường 12,phuong_12,Ward 12,10.80209552,106.6512287
-Quận Tân Bình,quan_tan_binh,Phường 13,phuong_13,Ward 13,10.8266462,106.7047977
-Quận Tân Bình,quan_tan_binh,Phường 14,phuong_14,Ward 14,10.8051903,106.6973305
-Quận Tân Bình,quan_tan_binh,Phường 15,phuong_15,Ward 15,10.7986563,106.7044115
-Quận Tân Phú,quan_tan_phu,Phường Hiệp Tân,phuong_hiep_tan,Hiep Tan Ward,10.7716335,106.6272497
-Quận Tân Phú,quan_tan_phu,Phường Hòa Thạnh,phuong_hoa_thanh,Hoa Thanh Ward,10.7786319,106.6376351
-Quận Tân Phú,quan_tan_phu,Phường Phú Thạnh,phuong_phu_thanh,Phu Thanh Ward,10.7799387,106.6271638
-Quận Tân Phú,quan_tan_phu,Phường Phú Thọ Hòa,phuong_phu_tho_hoa,Phu Tho Hoa Ward,10.78563,106.6275072
-Quận Tân Phú,quan_tan_phu,Phường Phú Trung,phuong_phu_trung,Phu Trung Ward,10.7765239,106.6420126
-Quận Tân Phú,quan_tan_phu,Phường Sơn Kỳ,phuong_son_ky,Son Ky Ward,10.8040522,106.6206836
-Quận Tân Phú,quan_tan_phu,Phường Tân Sơn Nhì,phuong_tan_son_nhi,Tan Son Nhi Ward,10.7992044,106.6320132
-Quận Tân Phú,quan_tan_phu,Phường Tân Thành,phuong_tan_thanh,Tan Thanh Ward,10.790984,106.6344165
-Quận Tân Phú,quan_tan_phu,Phường Tân Thới Hòa,phuong_tan_thoi_hoa,Phu Tho Hoa Ward,10.78563,106.6275072
-Quận Tân Phú,quan_tan_phu,Phường Tây Thạnh,phuong_tay_thanh,Tay Thanh Ward,10.812483,106.6237735
-Thành phố Thủ Đức,thanh_pho_thu_duc,Phường An Khánh,phuong_an_khanh,An Khanh Ward,10.7916585,106.7318343
-Thành phố Thủ Đức,thanh_pho_thu_duc,Phường An Lợi Đông,phuong_an_loi_dong,An Loi Dong Ward,10.7703265,106.7252683
-Thành phố Thủ Đức,thanh_pho_thu_duc,Phường An Phú,phuong_an_phu,An Phu Ward,10.795031,106.7443656
-Thành phố Thủ Đức,thanh_pho_thu_duc,Phường Bình Chiểu,phuong_binh_chieu,Binh Chieu Ward,10.8778137,106.7323493
-Thành phố Thủ Đức,thanh_pho_thu_duc,Phường Bình Thọ,phuong_binh_tho,Binh Tho Ward,10.8456138,106.7663383
-Thành phố Thủ Đức,thanh_pho_thu_duc,Phường Bình Trưng Đông,phuong_binh_trung_dong,Binh Trung Dong Ward,10.7862624,106.7747497
-Thành phố Thủ Đức,thanh_pho_thu_duc,Phường Bình Trưng Tây,phuong_binh_trung_tay,Binh Trung Tay Ward,10.7858408,106.7617892
-Thành phố Thủ Đức,thanh_pho_thu_duc,Phường Cát Lái,phuong_cat_lai,Cat Lai Ward,10.7779152,106.7688274
-Thành phố Thủ Đức,thanh_pho_thu_duc,Phường Hiệp Bình Chánh,phuong_hiep_binh_chanh,Hiep Binh Chanh Ward,10.8322102,106.7247962
-Thành phố Thủ Đức,thanh_pho_thu_duc,Phường Hiệp Bình Phước,phuong_hiep_binh_phuoc,Hiep Binh Phuoc Ward,10.8521046,106.7215346
-Thành phố Thủ Đức,thanh_pho_thu_duc,Phường Hiệp Phú,phuong_hiep_phu,Hiep Phu,10.847658,106.7797654
-Thành phố Thủ Đức,thanh_pho_thu_duc,Phường Linh Chiểu,phuong_linh_chieu,Linh Chieu Ward,10.8537062,106.7638492
-Thành phố Thủ Đức,thanh_pho_thu_duc,Phường Linh Đông,phuong_linh_dong,Linh Dong Ward,10.8483113,106.7471122
-Thành phố Thủ Đức,thanh_pho_thu_duc,Phường Linh Tây,phuong_linh_tay,Linh Tay Ward,10.857921,106.754837
-Thành phố Thủ Đức,thanh_pho_thu_duc,Phường Linh Trung,phuong_linh_trung,Linh Trung Ward,10.8596068,106.7805003
-Thành phố Thủ Đức,thanh_pho_thu_duc,Phường Linh Xuân,phuong_linh_xuan,Linh Xuan Ward,10.879668,106.7712306
-Thành phố Thủ Đức,thanh_pho_thu_duc,Phường Long Bình,phuong_long_binh,Long Binh Ward,10.867446,106.8392943
-Thành phố Thủ Đức,thanh_pho_thu_duc,Phường Long Phước,phuong_long_phuoc,Long Phuoc Ward,10.8097011,106.8611809
-Thành phố Thủ Đức,thanh_pho_thu_duc,Phường Long Thạnh Mỹ,phuong_long_thanh_my,Long Thanh My Ward,10.8424104,106.8256473
-Thành phố Thủ Đức,thanh_pho_thu_duc,Phường Long Trường,phuong_long_truong,Long Truong Ward,10.8020288,106.8134593
-Thành phố Thủ Đức,thanh_pho_thu_duc,Phường Phú Hữu,phuong_phu_huu,Phu Huu Ward,10.7909556,106.7993184
-Thành phố Thủ Đức,thanh_pho_thu_duc,Phường Phước Bình,phuong_phuoc_binh,Phuoc Binh Ward,10.8148436,106.7719173
-Thành phố Thủ Đức,thanh_pho_thu_duc,Phường Phước Long A,phuong_phuoc_long_a,Phuoc Long A Ward,10.8255924,106.7651796
-Thành phố Thủ Đức,thanh_pho_thu_duc,Phường Phước Long B,phuong_phuoc_long_b,Phuoc Long B Ward,10.8266462,106.7748355
-Thành phố Thủ Đức,thanh_pho_thu_duc,Phường Tam Bình,phuong_tam_binh,Tam Binh Ward,10.8675336,106.7358533
-Thành phố Thủ Đức,thanh_pho_thu_duc,Phường Tam Phú,phuong_tam_phu,Tam Phu Ward,10.862434,106.7441358
-Thành phố Thủ Đức,thanh_pho_thu_duc,Phường Tăng Nhơn Phú A,phuong_tang_nhon_phu_a,Phường Tăng Nhơn Phú A,10.8435063,106.7941474
-Thành phố Thủ Đức,thanh_pho_thu_duc,Phường Tăng Nhơn Phú B,phuong_tang_nhon_phu_b,Phường Tăng Nhơn Phú B,10.8356665,106.780672
-Thành phố Thủ Đức,thanh_pho_thu_duc,Phường Thạnh Mỹ Lợi,phuong_thanh_my_loi,Thanh My Loi Ward,10.7733621,106.7597722
-Thành phố Thủ Đức,thanh_pho_thu_duc,Phường Thảo Điền,phuong_thao_dien,Thao Dien Ward,10.8074245,106.7329501
-Thành phố Thủ Đức,thanh_pho_thu_duc,Phường Thủ Thiêm,phuong_thu_thiem,Thu Thiem Ward,10.7762685,106.7144193
-Thành phố Thủ Đức,thanh_pho_thu_duc,Phường Trường Thạnh,phuong_truong_thanh,Truong Thanh Ward,10.8261404,106.8158626
-Thành phố Thủ Đức,thanh_pho_thu_duc,Phường Trường Thọ,phuong_truong_tho,Truong Tho Ward,10.836088,106.7567252
+province_code,district_name,district_codename,ward_name,ward_codename,name,latitude,longitude
+HCM,Huyện Bình Chánh,huyen_binh_chanh,Thị trấn Tân Túc,thi_tran_tan_tuc,Thị trấn Tân Túc,10.6901149,106.5826774
+HCM,Huyện Cần Giờ,huyen_can_gio,Thị trấn Cần Thạnh,thi_tran_can_thanh,Thị trấn Cần Thạnh,10.4147541,106.9714754
+HCM,Huyện Củ Chi,huyen_cu_chi,Thị trấn Củ Chi,thi_tran_cu_chi,Cu Chi Town,10.9744159,106.4948968
+HCM,Huyện Hóc Môn,huyen_hoc_mon,Thị trấn Hóc Môn,thi_tran_hoc_mon,Hoc Mon Town,10.8860463,106.5927134
+HCM,Huyện Nhà Bè,huyen_nha_be,Thị trấn Nhà Bè,thi_tran_nha_be,Nha Be Town,10.6956953,106.7395591
+HCM,Quận 1,quan_1,Phường Bến Nghé,phuong_ben_nghe,Ben Nghe Ward,10.7801495,106.7032527
+HCM,Quận 1,quan_1,Phường Cầu Kho,phuong_cau_kho,Cau Kho Ward,10.7581211,106.6890049
+HCM,Quận 1,quan_1,Phường Cầu Ông Lãnh,phuong_cau_ong_lanh,Cau Ong Lanh Ward,10.7654571,106.6967082
+HCM,Quận 1,quan_1,Phường Cô Giang,phuong_co_giang,Co Giang Ward,10.7622107,106.6934252
+HCM,Quận 1,quan_1,Phường Đa Kao,phuong_da_kao,Da Kao Ward,10.7888339,106.6987037
+HCM,Quận 1,quan_1,Phường Nguyễn Cư Trinh,phuong_nguyen_cu_trinh,Nguyen Cu Trinh Ward,10.7630751,106.6863012
+HCM,Quận 1,quan_1,Phường Nguyễn Thái Bình,phuong_nguyen_thai_binh,Nguyen Thai Binh Ward,10.7686402,106.700592
+HCM,Quận 1,quan_1,Phường Phạm Ngũ Lão,phuong_pham_ngu_lao,Pham Ngu Lao Ward,10.7673332,106.6905498
+HCM,Quận 1,quan_1,Phường Tân Định,phuong_tan_dinh,Tan Dinh Ward,10.7925016,106.6907644
+HCM,Quận 10,quan_10,Phường 01,phuong_01,Ward 01,10.76536907,106.6789895
+HCM,Quận 10,quan_10,Phường 02,phuong_02,Ward 02,10.76331015,106.6742355
+HCM,Quận 10,quan_10,Phường 03,phuong_03,Ward 03,10.76181666,106.671478
+HCM,Quận 10,quan_10,Phường 04,phuong_04,Ward 04,10.76347917,106.6695202
+HCM,Quận 10,quan_10,Phường 05,phuong_05,Ward 05,10.76159371,106.6668064
+HCM,Quận 10,quan_10,Phường 06,phuong_06,Ward 06,10.76218067,106.6634358
+HCM,Quận 10,quan_10,Phường 07,phuong_07,Ward 07,10.76150311,106.6614259
+HCM,Quận 10,quan_10,Phường 08,phuong_08,Ward 08,10.76450436,106.665418
+HCM,Quận 10,quan_10,Phường 09,phuong_09,Ward 09,10.76707478,106.6708272
+HCM,Quận 10,quan_10,Phường 10,phuong_10,Ward 10,10.77192652,106.6676731
+HCM,Quận 10,quan_10,Phường 11,phuong_11,Ward 11,10.7754643,106.6811183
+HCM,Quận 10,quan_10,Phường 12,phuong_12,Ward 12,10.775853,106.6749832
+HCM,Quận 10,quan_10,Phường 13,phuong_13,Ward 13,10.77946026,106.6704676
+HCM,Quận 10,quan_10,Phường 14,phuong_14,Ward 14,10.7722259,106.6610778
+HCM,Quận 10,quan_10,Phường 15,phuong_15,Ward 15,10.78215166,106.6649737
+HCM,Quận 11,quan_11,Phường 01,phuong_01,Ward 01,10.75674745,106.6392035
+HCM,Quận 11,quan_11,Phường 02,phuong_02,Ward 02,10.75690499,106.6441271
+HCM,Quận 11,quan_11,Phường 03,phuong_03,Ward 03,10.7630173,106.6386728
+HCM,Quận 11,quan_11,Phường 04,phuong_04,Ward 04,10.7580874,106.6553296
+HCM,Quận 11,quan_11,Phường 05,phuong_05,Ward 05,10.77260717,106.6453724
+HCM,Quận 11,quan_11,Phường 06,phuong_06,Ward 06,10.75982593,106.6548154
+HCM,Quận 11,quan_11,Phường 07,phuong_07,Ward 07,10.76081835,106.659634
+HCM,Quận 11,quan_11,Phường 08,phuong_08,Ward 08,10.76024086,106.648694
+HCM,Quận 11,quan_11,Phường 09,phuong_09,Ward 09,10.76160986,106.6454311
+HCM,Quận 11,quan_11,Phường 10,phuong_10,Ward 10,10.76482806,106.6435158
+HCM,Quận 11,quan_11,Phường 11,phuong_11,Ward 11,10.76741611,106.6515559
+HCM,Quận 11,quan_11,Phường 12,phuong_12,Ward 12,10.76139516,106.6531089
+HCM,Quận 11,quan_11,Phường 13,phuong_13,Ward 13,10.7641949,106.6536682
+HCM,Quận 11,quan_11,Phường 14,phuong_14,Ward 14,10.76982252,106.6484932
+HCM,Quận 11,quan_11,Phường 15,phuong_15,Ward 15,10.77293116,106.65518
+HCM,Quận 11,quan_11,Phường 16,phuong_16,Phường 16,10.75552863,106.6479139
+HCM,Quận 12,quan_12,Phường An Phú Đông,phuong_an_phu_dong,Phường An Phú Đông,10.8588271,106.6966734
+HCM,Quận 12,quan_12,Phường Đông Hưng Thuận,phuong_dong_hung_thuan,Phường Đông Hưng Thuận,10.8428486,106.6309776
+HCM,Quận 12,quan_12,Phường Hiệp Thành,phuong_hiep_thanh,Phường Hiệp Thành,10.881053,106.6388025
+HCM,Quận 12,quan_12,Phường Tân Chánh Hiệp,phuong_tan_chanh_hiep,Phường Tân Chánh Hiệp,10.8678527,106.6231544
+HCM,Quận 12,quan_12,Phường Tân Hưng Thuận,phuong_tan_hung_thuan,Phường Tân Hưng Thuận,10.8380911,106.6235253
+HCM,Quận 12,quan_12,Phường Tân Thới Hiệp,phuong_tan_thoi_hiep,Phường Tân Thới Hiệp,10.8616587,106.64156
+HCM,Quận 12,quan_12,Phường Tân Thới Nhất,phuong_tan_thoi_nhat,Phường Tân Thới Nhất,10.8306721,106.6151355
+HCM,Quận 12,quan_12,Phường Thạnh Lộc,phuong_thanh_loc,Phường Thạnh Lộc,10.8731713,106.6860324
+HCM,Quận 12,quan_12,Phường Thạnh Xuân,phuong_thanh_xuan,Phường Thạnh Xuân,10.8719549,106.6726095
+HCM,Quận 12,quan_12,Phường Thới An,phuong_thoi_an,Phường Thới An,10.8786809,106.6521484
+HCM,Quận 12,quan_12,Phường Trung Mỹ Tây,phuong_trung_my_tay,Phường Trung Mỹ Tây,10.8549056,106.6146723
+HCM,Quận 3,quan_3,Phường 01,phuong_01,Ward 01,10.76896161,106.6774231
+HCM,Quận 3,quan_3,Phường 02,phuong_02,Ward 02,10.76837033,106.6811111
+HCM,Quận 3,quan_3,Phường 03,phuong_03,Ward 03,10.7710522,106.6793459
+HCM,Quận 3,quan_3,Phường 04,phuong_04,Ward 04,10.77361493,106.6826072
+HCM,Quận 3,quan_3,Phường 05,phuong_05,Ward 05,10.77163343,106.6860676
+HCM,Quận 3,quan_3,Phường 06,phuong_06,Ward 06,10.78236717,106.6922324
+HCM,Quận 3,quan_3,Phường 08,phuong_08,Ward 08,10.79009847,106.6861365
+HCM,Quận 3,quan_3,Phường 09,phuong_09,Ward 09,10.782974,106.6794523
+HCM,Quận 3,quan_3,Phường 10,phuong_10,Ward 10,10.78266809,106.6746166
+HCM,Quận 3,quan_3,Phường 11,phuong_11,Ward 11,10.78560575,106.6706617
+HCM,Quận 3,quan_3,Phường 12,phuong_12,Ward 12,10.78801428,106.673534
+HCM,Quận 3,quan_3,Phường 13,phuong_13,Ward 13,10.78699477,106.6782708
+HCM,Quận 3,quan_3,Phường 14,phuong_14,Ward 14,10.78918166,106.6777055
+HCM,Quận 3,quan_3,Phường Võ Thị Sáu,phuong_vo_thi_sau,Vo Thi Sau Ward,10.78349354,106.6913416
+HCM,Quận 4,quan_4,Phường 01,phuong_01,Ward 01,10.75461835,106.691152
+HCM,Quận 4,quan_4,Phường 02,phuong_02,Ward 02,10.75724294,106.6964909
+HCM,Quận 4,quan_4,Phường 03,phuong_03,Ward 03,10.75481866,106.6993881
+HCM,Quận 4,quan_4,Phường 04,phuong_04,Ward 04,10.75660137,106.7032655
+HCM,Quận 4,quan_4,Phường 06,phuong_06,Ward 06,10.76103739,106.6999054
+HCM,Quận 4,quan_4,Phường 08,phuong_08,Ward 08,10.76093957,106.7055575
+HCM,Quận 4,quan_4,Phường 09,phuong_09,Ward 09,10.76341153,106.7027842
+HCM,Quận 4,quan_4,Phường 10,phuong_10,Ward 10,10.76078187,106.7056168
+HCM,Quận 4,quan_4,Phường 13,phuong_13,Ward 13,10.76406674,106.7079407
+HCM,Quận 4,quan_4,Phường 14,phuong_14,Ward 14,10.75819612,106.708799
+HCM,Quận 4,quan_4,Phường 15,phuong_15,Ward 15,10.75463232,106.7075818
+HCM,Quận 4,quan_4,Phường 16,phuong_16,Ward 16,10.75569284,106.7123241
+HCM,Quận 4,quan_4,Phường 18,phuong_18,Ward 18,10.75792672,106.7165223
+HCM,Quận 5,quan_5,Phường 01,phuong_01,Ward 01,10.75392867,106.6821678
+HCM,Quận 5,quan_5,Phường 02,phuong_02,Ward 02,10.75738114,106.6819398
+HCM,Quận 5,quan_5,Phường 03,phuong_03,Ward 03,10.75774202,106.6760344
+HCM,Quận 5,quan_5,Phường 04,phuong_04,Ward 04,10.76210529,106.680894
+HCM,Quận 5,quan_5,Phường 05,phuong_05,Ward 05,10.75147012,106.6747463
+HCM,Quận 5,quan_5,Phường 06,phuong_06,Ward 06,10.75139633,106.6698968
+HCM,Quận 5,quan_5,Phường 07,phuong_07,Ward 07,10.75421897,106.6722464
+HCM,Quận 5,quan_5,Phường 08,phuong_08,Ward 08,10.75623255,106.6714695
+HCM,Quận 5,quan_5,Phường 09,phuong_09,Ward 09,10.75894203,106.6708517
+HCM,Quận 5,quan_5,Phường 10,phuong_10,Ward 10,10.75111177,106.6630412
+HCM,Quận 5,quan_5,Phường 11,phuong_11,Ward 11,10.75401036,106.6629207
+HCM,Quận 5,quan_5,Phường 12,phuong_12,Ward 12,10.75700473,106.6609433
+HCM,Quận 5,quan_5,Phường 13,phuong_13,Ward 13,10.74962556,106.6569257
+HCM,Quận 5,quan_5,Phường 14,phuong_14,Ward 14,10.75278701,106.6549731
+HCM,Quận 6,quan_6,Phường 01,phuong_01,Ward 01,10.75386362,106.6456155
+HCM,Quận 6,quan_6,Phường 02,phuong_02,Ward 02,10.75044767,106.6502288
+HCM,Quận 6,quan_6,Phường 03,phuong_03,Ward 03,10.74366418,106.6470274
+HCM,Quận 6,quan_6,Phường 04,phuong_04,Ward 04,10.74634743,106.6451454
+HCM,Quận 6,quan_6,Phường 05,phuong_05,Ward 05,10.74883498,106.6430903
+HCM,Quận 6,quan_6,Phường 06,phuong_06,Ward 06,10.75228082,106.645476
+HCM,Quận 6,quan_6,Phường 07,phuong_07,Ward 07,10.73892202,106.6397333
+HCM,Quận 6,quan_6,Phường 08,phuong_08,Ward 08,10.74383475,106.6392645
+HCM,Quận 6,quan_6,Phường 09,phuong_09,Ward 09,10.75300489,106.6399541
+HCM,Quận 6,quan_6,Phường 10,phuong_10,Ward 10,10.73749009,106.6266783
+HCM,Quận 6,quan_6,Phường 11,phuong_11,Ward 11,10.74543174,106.6324863
+HCM,Quận 6,quan_6,Phường 12,phuong_12,Ward 12,10.75034554,106.6335557
+HCM,Quận 6,quan_6,Phường 13,phuong_13,Ward 13,10.7520141,106.6264604
+HCM,Quận 6,quan_6,Phường 14,phuong_14,Ward 14,10.75805349,106.631177
+HCM,Quận 7,quan_7,Phường Bình Thuận,phuong_binh_thuan,Binh Thuan Ward,10.7428374,106.7230796
+HCM,Quận 7,quan_7,Phường Phú Mỹ,phuong_phu_my,Phu My Ward,10.7061532,106.7378425
+HCM,Quận 7,quan_7,Phường Phú Thuận,phuong_phu_thuan,Phu Thuan Ward,10.7294201,106.7348597
+HCM,Quận 7,quan_7,Phường Tân Hưng,phuong_tan_hung,Tan Hung Ward,10.7449034,106.6981887
+HCM,Quận 7,quan_7,Phường Tân Kiểng,phuong_tan_kieng,Tan Kieng Ward,10.7491196,106.7104625
+HCM,Quận 7,quan_7,Phường Tân Phong,phuong_tan_phong,Tan Phong Ward,10.7303569,106.7055701
+HCM,Quận 7,quan_7,Phường Tân Quy,phuong_tan_quy,Tan Quy Ward,10.7941456,106.6222286
+HCM,Quận 7,quan_7,Phường Tân Thuận Đông,phuong_tan_thuan_dong,Tan Thuan Dong Ward,10.745084,106.7316294
+HCM,Quận 7,quan_7,Phường Tân Thuận Tây,phuong_tan_thuan_tay,Tan Thuan Tay Ward,10.7508483,106.7217063
+HCM,Quận 8,quan_8,Phường 01,phuong_01,Ward 01,10.74545116,106.690539
+HCM,Quận 8,quan_8,Phường 02,phuong_02,Ward 02,10.74743247,106.6845308
+HCM,Quận 8,quan_8,Phường 03,phuong_03,Ward 03,10.74196239,106.6837613
+HCM,Quận 8,quan_8,Phường 04,phuong_04,Ward 04,10.74035373,106.6769973
+HCM,Quận 8,quan_8,Phường 05,phuong_05,Ward 05,10.73623337,106.6720591
+HCM,Quận 8,quan_8,Phường 06,phuong_06,Ward 06,10.73449939,106.6491386
+HCM,Quận 8,quan_8,Phường 07,phuong_07,Ward 07,10.70298196,106.6226463
+HCM,Quận 8,quan_8,Phường 08,phuong_08,Ward 08,10.74970805,106.679751
+HCM,Quận 8,quan_8,Phường 09,phuong_09,Ward 09,10.74609856,106.6720212
+HCM,Quận 8,quan_8,Phường 10,phuong_10,Ward 10,10.74619448,106.6642428
+HCM,Quận 8,quan_8,Phường 11,phuong_11,Ward 11,10.74934089,106.6669786
+HCM,Quận 8,quan_8,Phường 12,phuong_12,Ward 12,10.74312191,106.6559494
+HCM,Quận 8,quan_8,Phường 13,phuong_13,Ward 13,10.74543036,106.6552626
+HCM,Quận 8,quan_8,Phường 14,phuong_14,Ward 14,10.73868414,106.6464114
+HCM,Quận 8,quan_8,Phường 15,phuong_15,Ward 15,10.72456843,106.6326582
+HCM,Quận 8,quan_8,Phường 16,phuong_16,Phường 16,10.71320386,106.6220816
+HCM,Quận Bình Tân,quan_binh_tan,Phường An Lạc,phuong_an_lac,An Lac Ward,10.7249151,106.6129429
+HCM,Quận Bình Tân,quan_binh_tan,Phường An Lạc A,phuong_an_lac_a,An Lac A Ward,10.7487261,106.6224286
+HCM,Quận Bình Tân,quan_binh_tan,Phường Bình Hưng Hòa,phuong_binh_hung_hoa,Binh Hung Hoa Ward,10.8077196,106.6034316
+HCM,Quận Bình Tân,quan_binh_tan,Phường Bình Hưng Hoà A,phuong_binh_hung_hoa_a,Binh Hung Hoa A Ward,10.784004,106.6078353
+HCM,Quận Bình Tân,quan_binh_tan,Phường Bình Hưng Hoà B,phuong_binh_hung_hoa_b,Binh Hung Hoa B Ward,10.801923,106.5913656
+HCM,Quận Bình Tân,quan_binh_tan,Phường Bình Trị Đông,phuong_binh_tri_dong,Binh Tri Dong Ward,10.7663912,106.6167997
+HCM,Quận Bình Tân,quan_binh_tan,Phường Bình Trị Đông A,phuong_binh_tri_dong_a,Binh Tri Dong A Ward,10.7693609,106.5956394
+HCM,Quận Bình Tân,quan_binh_tan,Phường Bình Trị Đông B,phuong_binh_tri_dong_b,Binh Tri Dong B Ward,10.7504813,106.6128383
+HCM,Quận Bình Tân,quan_binh_tan,Phường Tân Tạo,phuong_tan_tao,Tan Tao Ward,10.7610471,106.58872
+HCM,Quận Bình Tân,quan_binh_tan,Phường Tân Tạo A,phuong_tan_tao_a,Tan Tao A Ward,10.7547879,106.584389
+HCM,Quận Bình Thạnh,quan_binh_thanh,Phường 01,phuong_01,Ward 01,10.79853141,106.6976885
+HCM,Quận Bình Thạnh,quan_binh_thanh,Phường 02,phuong_02,Ward 02,10.80157207,106.7010362
+HCM,Quận Bình Thạnh,quan_binh_thanh,Phường 03,phuong_03,Ward 03,10.79987597,106.6946788
+HCM,Quận Bình Thạnh,quan_binh_thanh,Phường 05,phuong_05,Ward 05,10.81387904,106.6875571
+HCM,Quận Bình Thạnh,quan_binh_thanh,Phường 06,phuong_06,Ward 06,10.80722167,106.6867689
+HCM,Quận Bình Thạnh,quan_binh_thanh,Phường 07,phuong_07,Ward 07,10.80934014,106.6924514
+HCM,Quận Bình Thạnh,quan_binh_thanh,Phường 11,phuong_11,Ward 11,10.8176007,106.6950159
+HCM,Quận Bình Thạnh,quan_binh_thanh,Phường 12,phuong_12,Ward 12,10.81353811,106.7001864
+HCM,Quận Bình Thạnh,quan_binh_thanh,Phường 13,phuong_13,Ward 13,10.82413669,106.7051518
+HCM,Quận Bình Thạnh,quan_binh_thanh,Phường 14,phuong_14,Ward 14,10.8050635,106.6976723
+HCM,Quận Bình Thạnh,quan_binh_thanh,Phường 15,phuong_15,Ward 15,10.79649217,106.7021036
+HCM,Quận Bình Thạnh,quan_binh_thanh,Phường 17,phuong_17,Ward 17,10.79535385,106.7075122
+HCM,Quận Bình Thạnh,quan_binh_thanh,Phường 19,phuong_19,Ward 19,10.79029943,106.7102196
+HCM,Quận Bình Thạnh,quan_binh_thanh,Phường 21,phuong_21,Ward 21,10.79757865,106.7123596
+HCM,Quận Bình Thạnh,quan_binh_thanh,Phường 22,phuong_22,Ward 22,10.79159645,106.7191314
+HCM,Quận Bình Thạnh,quan_binh_thanh,Phường 24,phuong_24,Ward 24,10.805654,106.7168965
+HCM,Quận Bình Thạnh,quan_binh_thanh,Phường 25,phuong_25,Ward 25,10.80682691,106.716397
+HCM,Quận Bình Thạnh,quan_binh_thanh,Phường 26,phuong_26,Ward 26,10.81697229,106.7066416
+HCM,Quận Bình Thạnh,quan_binh_thanh,Phường 27,phuong_27,Ward 27,10.81652736,106.7209974
+HCM,Quận Bình Thạnh,quan_binh_thanh,Phường 28,phuong_28,Ward 28,10.81937398,106.7439566
+HCM,Quận Gò Vấp,quan_go_vap,Phường 01,phuong_01,Ward 01,10.818684,106.6918231
+HCM,Quận Gò Vấp,quan_go_vap,Phường 03,phuong_03,Ward 03,10.81547905,106.6772902
+HCM,Quận Gò Vấp,quan_go_vap,Phường 04,phuong_04,Ward 04,10.82315882,106.6849056
+HCM,Quận Gò Vấp,quan_go_vap,Phường 05,phuong_05,Ward 05,10.82822058,106.6926285
+HCM,Quận Gò Vấp,quan_go_vap,Phường 07,phuong_07,Ward 07,10.8283457,106.6842501
+HCM,Quận Gò Vấp,quan_go_vap,Phường 10,phuong_10,Ward 10,10.77217947,106.667716
+HCM,Quận Gò Vấp,quan_go_vap,Phường 11,phuong_11,Ward 11,10.8416184,106.6617548
+HCM,Quận Gò Vấp,quan_go_vap,Phường 12,phuong_12,Ward 12,10.83384013,106.6400116
+HCM,Quận Gò Vấp,quan_go_vap,Phường 13,phuong_13,Ward 13,10.85498795,106.6589798
+HCM,Quận Gò Vấp,quan_go_vap,Phường 14,phuong_14,Ward 14,10.84844708,106.6429564
+HCM,Quận Gò Vấp,quan_go_vap,Phường 15,phuong_15,Ward 15,10.85241204,106.6696558
+HCM,Quận Gò Vấp,quan_go_vap,Phường 16,phuong_16,Ward 16,10.84750897,106.6624356
+HCM,Quận Gò Vấp,quan_go_vap,Phường 17,phuong_17,Ward 17,10.83900703,106.6780578
+HCM,Quận Gò Vấp,quan_go_vap,Phường 6,phuong_6,Ward 06,10.8452951,106.6833654
+HCM,Quận Gò Vấp,quan_go_vap,Phường 8,phuong_8,Ward 08,10.84155662,106.6529881
+HCM,Quận Gò Vấp,quan_go_vap,Phường 9,phuong_9,Ward 09,10.84762521,106.6527293
+HCM,Quận Phú Nhuận,quan_phu_nhuan,Phường 01,phuong_01,Ward 01,10.79834512,106.6825162
+HCM,Quận Phú Nhuận,quan_phu_nhuan,Phường 02,phuong_02,Ward 02,10.80081787,106.6841301
+HCM,Quận Phú Nhuận,quan_phu_nhuan,Phường 03,phuong_03,Ward 03,10.80149244,106.682628
+HCM,Quận Phú Nhuận,quan_phu_nhuan,Phường 04,phuong_04,Ward 04,10.80710575,106.6783374
+HCM,Quận Phú Nhuận,quan_phu_nhuan,Phường 05,phuong_05,Ward 05,10.80575689,106.6826504
+HCM,Quận Phú Nhuận,quan_phu_nhuan,Phường 07,phuong_07,Ward 07,10.80118082,106.6898644
+HCM,Quận Phú Nhuận,quan_phu_nhuan,Phường 08,phuong_08,Ward 08,10.79748494,106.6757307
+HCM,Quận Phú Nhuận,quan_phu_nhuan,Phường 09,phuong_09,Ward 09,10.80653222,106.6746647
+HCM,Quận Phú Nhuận,quan_phu_nhuan,Phường 10,phuong_10,Ward 10,10.79582277,106.670645
+HCM,Quận Phú Nhuận,quan_phu_nhuan,Phường 11,phuong_11,Ward 11,10.79341372,106.6739463
+HCM,Quận Phú Nhuận,quan_phu_nhuan,Phường 13,phuong_13,Ward 13,10.78980613,106.6699361
+HCM,Quận Phú Nhuận,quan_phu_nhuan,Phường 15,phuong_15,Ward 15,10.7962765,106.6800722
+HCM,Quận Phú Nhuận,quan_phu_nhuan,Phường 17,phuong_17,Ward 17,10.79393107,106.6826427
+HCM,Quận Tân Bình,quan_tan_binh,Phường 01,phuong_01,Ward 01,10.79632767,106.6665319
+HCM,Quận Tân Bình,quan_tan_binh,Phường 02,phuong_02,Ward 02,10.81268917,106.6657798
+HCM,Quận Tân Bình,quan_tan_binh,Phường 03,phuong_03,Ward 03,10.7947686,106.662192
+HCM,Quận Tân Bình,quan_tan_binh,Phường 04,phuong_04,Ward 04,10.80812789,106.6564488
+HCM,Quận Tân Bình,quan_tan_binh,Phường 05,phuong_05,Ward 05,10.7901928,106.6609445
+HCM,Quận Tân Bình,quan_tan_binh,Phường 06,phuong_06,Ward 06,10.79266079,106.6616127
+HCM,Quận Tân Bình,quan_tan_binh,Phường 07,phuong_07,Ward 07,10.78848392,106.6562822
+HCM,Quận Tân Bình,quan_tan_binh,Phường 08,phuong_08,Ward 08,10.78322243,106.6520745
+HCM,Quận Tân Bình,quan_tan_binh,Phường 09,phuong_09,Ward 09,10.77541398,106.6511717
+HCM,Quận Tân Bình,quan_tan_binh,Phường 10,phuong_10,Ward 10,10.78210891,106.6471799
+HCM,Quận Tân Bình,quan_tan_binh,Phường 11,phuong_11,Ward 11,10.753631,106.6626977
+HCM,Quận Tân Bình,quan_tan_binh,Phường 12,phuong_12,Ward 12,10.80209552,106.6512287
+HCM,Quận Tân Bình,quan_tan_binh,Phường 13,phuong_13,Ward 13,10.8266462,106.7047977
+HCM,Quận Tân Bình,quan_tan_binh,Phường 14,phuong_14,Ward 14,10.8051903,106.6973305
+HCM,Quận Tân Bình,quan_tan_binh,Phường 15,phuong_15,Ward 15,10.7986563,106.7044115
+HCM,Quận Tân Phú,quan_tan_phu,Phường Hiệp Tân,phuong_hiep_tan,Hiep Tan Ward,10.7716335,106.6272497
+HCM,Quận Tân Phú,quan_tan_phu,Phường Hòa Thạnh,phuong_hoa_thanh,Hoa Thanh Ward,10.7786319,106.6376351
+HCM,Quận Tân Phú,quan_tan_phu,Phường Phú Thạnh,phuong_phu_thanh,Phu Thanh Ward,10.7799387,106.6271638
+HCM,Quận Tân Phú,quan_tan_phu,Phường Phú Thọ Hòa,phuong_phu_tho_hoa,Phu Tho Hoa Ward,10.78563,106.6275072
+HCM,Quận Tân Phú,quan_tan_phu,Phường Phú Trung,phuong_phu_trung,Phu Trung Ward,10.7765239,106.6420126
+HCM,Quận Tân Phú,quan_tan_phu,Phường Sơn Kỳ,phuong_son_ky,Son Ky Ward,10.8040522,106.6206836
+HCM,Quận Tân Phú,quan_tan_phu,Phường Tân Sơn Nhì,phuong_tan_son_nhi,Tan Son Nhi Ward,10.7992044,106.6320132
+HCM,Quận Tân Phú,quan_tan_phu,Phường Tân Thành,phuong_tan_thanh,Tan Thanh Ward,10.790984,106.6344165
+HCM,Quận Tân Phú,quan_tan_phu,Phường Tân Thới Hòa,phuong_tan_thoi_hoa,Phu Tho Hoa Ward,10.78563,106.6275072
+HCM,Quận Tân Phú,quan_tan_phu,Phường Tây Thạnh,phuong_tay_thanh,Tay Thanh Ward,10.812483,106.6237735
+HCM,Thành phố Thủ Đức,thanh_pho_thu_duc,Phường An Khánh,phuong_an_khanh,An Khanh Ward,10.7916585,106.7318343
+HCM,Thành phố Thủ Đức,thanh_pho_thu_duc,Phường An Lợi Đông,phuong_an_loi_dong,An Loi Dong Ward,10.7703265,106.7252683
+HCM,Thành phố Thủ Đức,thanh_pho_thu_duc,Phường An Phú,phuong_an_phu,An Phu Ward,10.795031,106.7443656
+HCM,Thành phố Thủ Đức,thanh_pho_thu_duc,Phường Bình Chiểu,phuong_binh_chieu,Binh Chieu Ward,10.8778137,106.7323493
+HCM,Thành phố Thủ Đức,thanh_pho_thu_duc,Phường Bình Thọ,phuong_binh_tho,Binh Tho Ward,10.8456138,106.7663383
+HCM,Thành phố Thủ Đức,thanh_pho_thu_duc,Phường Bình Trưng Đông,phuong_binh_trung_dong,Binh Trung Dong Ward,10.7862624,106.7747497
+HCM,Thành phố Thủ Đức,thanh_pho_thu_duc,Phường Bình Trưng Tây,phuong_binh_trung_tay,Binh Trung Tay Ward,10.7858408,106.7617892
+HCM,Thành phố Thủ Đức,thanh_pho_thu_duc,Phường Cát Lái,phuong_cat_lai,Cat Lai Ward,10.7779152,106.7688274
+HCM,Thành phố Thủ Đức,thanh_pho_thu_duc,Phường Hiệp Bình Chánh,phuong_hiep_binh_chanh,Hiep Binh Chanh Ward,10.8322102,106.7247962
+HCM,Thành phố Thủ Đức,thanh_pho_thu_duc,Phường Hiệp Bình Phước,phuong_hiep_binh_phuoc,Hiep Binh Phuoc Ward,10.8521046,106.7215346
+HCM,Thành phố Thủ Đức,thanh_pho_thu_duc,Phường Hiệp Phú,phuong_hiep_phu,Hiep Phu,10.847658,106.7797654
+HCM,Thành phố Thủ Đức,thanh_pho_thu_duc,Phường Linh Chiểu,phuong_linh_chieu,Linh Chieu Ward,10.8537062,106.7638492
+HCM,Thành phố Thủ Đức,thanh_pho_thu_duc,Phường Linh Đông,phuong_linh_dong,Linh Dong Ward,10.8483113,106.7471122
+HCM,Thành phố Thủ Đức,thanh_pho_thu_duc,Phường Linh Tây,phuong_linh_tay,Linh Tay Ward,10.857921,106.754837
+HCM,Thành phố Thủ Đức,thanh_pho_thu_duc,Phường Linh Trung,phuong_linh_trung,Linh Trung Ward,10.8596068,106.7805003
+HCM,Thành phố Thủ Đức,thanh_pho_thu_duc,Phường Linh Xuân,phuong_linh_xuan,Linh Xuan Ward,10.879668,106.7712306
+HCM,Thành phố Thủ Đức,thanh_pho_thu_duc,Phường Long Bình,phuong_long_binh,Long Binh Ward,10.867446,106.8392943
+HCM,Thành phố Thủ Đức,thanh_pho_thu_duc,Phường Long Phước,phuong_long_phuoc,Long Phuoc Ward,10.8097011,106.8611809
+HCM,Thành phố Thủ Đức,thanh_pho_thu_duc,Phường Long Thạnh Mỹ,phuong_long_thanh_my,Long Thanh My Ward,10.8424104,106.8256473
+HCM,Thành phố Thủ Đức,thanh_pho_thu_duc,Phường Long Trường,phuong_long_truong,Long Truong Ward,10.8020288,106.8134593
+HCM,Thành phố Thủ Đức,thanh_pho_thu_duc,Phường Phú Hữu,phuong_phu_huu,Phu Huu Ward,10.7909556,106.7993184
+HCM,Thành phố Thủ Đức,thanh_pho_thu_duc,Phường Phước Bình,phuong_phuoc_binh,Phuoc Binh Ward,10.8148436,106.7719173
+HCM,Thành phố Thủ Đức,thanh_pho_thu_duc,Phường Phước Long A,phuong_phuoc_long_a,Phuoc Long A Ward,10.8255924,106.7651796
+HCM,Thành phố Thủ Đức,thanh_pho_thu_duc,Phường Phước Long B,phuong_phuoc_long_b,Phuoc Long B Ward,10.8266462,106.7748355
+HCM,Thành phố Thủ Đức,thanh_pho_thu_duc,Phường Tam Bình,phuong_tam_binh,Tam Binh Ward,10.8675336,106.7358533
+HCM,Thành phố Thủ Đức,thanh_pho_thu_duc,Phường Tam Phú,phuong_tam_phu,Tam Phu Ward,10.862434,106.7441358
+HCM,Thành phố Thủ Đức,thanh_pho_thu_duc,Phường Tăng Nhơn Phú A,phuong_tang_nhon_phu_a,Phường Tăng Nhơn Phú A,10.8435063,106.7941474
+HCM,Thành phố Thủ Đức,thanh_pho_thu_duc,Phường Tăng Nhơn Phú B,phuong_tang_nhon_phu_b,Phường Tăng Nhơn Phú B,10.8356665,106.780672
+HCM,Thành phố Thủ Đức,thanh_pho_thu_duc,Phường Thạnh Mỹ Lợi,phuong_thanh_my_loi,Thanh My Loi Ward,10.7733621,106.7597722
+HCM,Thành phố Thủ Đức,thanh_pho_thu_duc,Phường Thảo Điền,phuong_thao_dien,Thao Dien Ward,10.8074245,106.7329501
+HCM,Thành phố Thủ Đức,thanh_pho_thu_duc,Phường Thủ Thiêm,phuong_thu_thiem,Thu Thiem Ward,10.7762685,106.7144193
+HCM,Thành phố Thủ Đức,thanh_pho_thu_duc,Phường Trường Thạnh,phuong_truong_thanh,Truong Thanh Ward,10.8261404,106.8158626
+HCM,Thành phố Thủ Đức,thanh_pho_thu_duc,Phường Trường Thọ,phuong_truong_tho,Truong Tho Ward,10.836088,106.7567252
+HAN,Quận Ba Đình,quan_ba_dinh,Phường Phúc Xá,phuong_phuc_xa,Phuc Xa Ward,21.04778,105.84778
+HAN,Quận Ba Đình,quan_ba_dinh,Phường Trúc Bạch,phuong_truc_bach,Truc Bach Ward,21.045421,105.843087
+HAN,Quận Ba Đình,quan_ba_dinh,Phường Vĩnh Phúc,phuong_vinh_phuc,Vinh Phuc Ward,21.040833,105.807222
+HAN,Quận Ba Đình,quan_ba_dinh,Phường Cống Vị,phuong_cong_vi,Cong Vi Ward,21.035556,105.807778
+HAN,Quận Ba Đình,quan_ba_dinh,Phường Liễu Giai,phuong_lieu_giai,Lieu Giai Ward,21.04,105.815833
+HAN,Quận Ba Đình,quan_ba_dinh,Phường Quán Thánh,phuong_quan_thanh,Quan Thanh Ward,21.039135,105.84074
+HAN,Quận Ba Đình,quan_ba_dinh,Phường Ngọc Hà,phuong_ngoc_ha,Ngoc Ha Ward,21.037778,105.829722
+HAN,Quận Ba Đình,quan_ba_dinh,Phường Điện Biên,phuong_dien_bien,Dien Bien Ward,21.034444,105.835278
+HAN,Quận Ba Đình,quan_ba_dinh,Phường Đội Cấn,phuong_doi_can,Doi Can Ward,21.03632,105.82102
+HAN,Quận Ba Đình,quan_ba_dinh,Phường Ngọc Khánh,phuong_ngoc_khanh,Ngoc Khanh Ward,21.031111,105.8075
+HAN,Quận Ba Đình,quan_ba_dinh,Phường Kim Mã,phuong_kim_ma,Kim Ma Ward,21.031389,105.822222
+HAN,Quận Ba Đình,quan_ba_dinh,Phường Giảng Võ,phuong_giang_vo,Giang Vo Ward,21.028333,105.816111
+HAN,Quận Ba Đình,quan_ba_dinh,Phường Thành Công,phuong_thanh_cong,Thanh Cong Ward,21.021389,105.813889
+HAN,Quận Hoàn Kiếm,quan_hoan_kiem,Phường Phúc Tân,phuong_phuc_tan,Phuc Tan Ward,21.03744542,105.8569354
+HAN,Quận Hoàn Kiếm,quan_hoan_kiem,Phường Đồng Xuân,phuong_dong_xuan,Dong Xuan Ward,21.0387623,105.8499884
+HAN,Quận Hoàn Kiếm,quan_hoan_kiem,Phường Hàng Mã,phuong_hang_ma,Hang Ma Ward,21.03750555,105.8463152
+HAN,Quận Hoàn Kiếm,quan_hoan_kiem,Phường Hàng Buồm,phuong_hang_buom,Hang Buom Ward,21.03594599,105.8521771
+HAN,Quận Hoàn Kiếm,quan_hoan_kiem,Phường Hàng Đào,phuong_hang_dao,Hang Dao Ward,21.03567561,105.8520913
+HAN,Quận Hoàn Kiếm,quan_hoan_kiem,Phường Hàng Bồ,phuong_hang_bo,Hang Bo Ward,21.03494963,105.8481163
+HAN,Quận Hoàn Kiếm,quan_hoan_kiem,Phường Cửa Đông,phuong_cua_dong,Cua Dong Ward,21.03295676,105.8456259
+HAN,Quận Hoàn Kiếm,quan_hoan_kiem,Phường Lý Thái Tổ,phuong_ly_thai_to,Ly Thai To Ward,21.0313161,105.8548434
+HAN,Quận Hoàn Kiếm,quan_hoan_kiem,Phường Hàng Bạc,phuong_hang_bac,Hang Bac Ward,21.0322535,105.8538996
+HAN,Quận Hoàn Kiếm,quan_hoan_kiem,Phường Hàng Gai,phuong_hang_gai,Hang Gai Ward,21.0320505,105.8487117
+HAN,Quận Hoàn Kiếm,quan_hoan_kiem,Phường Chương Dương,phuong_chuong_duong,Chuong Duong Ward,21.02742886,105.8615488
+HAN,Quận Hoàn Kiếm,quan_hoan_kiem,Phường Hàng Trống,phuong_hang_trong,Hang Trong Ward,21.02822385,105.8503774
+HAN,Quận Hoàn Kiếm,quan_hoan_kiem,Phường Cửa Nam,phuong_cua_nam,Cua Nam Ward,21.02541598,105.8424782
+HAN,Quận Hoàn Kiếm,quan_hoan_kiem,Phường Hàng Bông,phuong_hang_bong,Hang Bong Ward,21.0295456,105.8441033
+HAN,Quận Hoàn Kiếm,quan_hoan_kiem,Phường Tràng Tiền,phuong_trang_tien,Trang Tien Ward,21.02508063,105.8562648
+HAN,Quận Hoàn Kiếm,quan_hoan_kiem,Phường Trần Hưng Đạo,phuong_tran_hung_dao,Tran Hung Dao Ward,21.02268702,105.8472258
+HAN,Quận Hoàn Kiếm,quan_hoan_kiem,Phường Phan Chu Trinh,phuong_phan_chu_trinh,Phan Chu Trinh Ward,21.0196457,105.8559112
+HAN,Quận Hoàn Kiếm,quan_hoan_kiem,Phường Hàng Bài,phuong_hang_bai,Hang Bai Ward,21.02180834,105.8524213
+HAN,Quận Tây Hồ,quan_tay_ho,Phường Phú Thượng,phuong_phu_thuong,Phu Thuong Ward,21.087343,105.806706
+HAN,Quận Tây Hồ,quan_tay_ho,Phường Nhật Tân,phuong_nhat_tan,Nhat Tan Ward,21.078333,105.822778
+HAN,Quận Tây Hồ,quan_tay_ho,Phường Tứ Liên,phuong_tu_lien,Tu Lien Ward,21.068611,105.835833
+HAN,Quận Tây Hồ,quan_tay_ho,Phường Quảng An,phuong_quang_an,Quang An Ward,21.061667,105.823333
+HAN,Quận Tây Hồ,quan_tay_ho,Phường Xuân La,phuong_xuan_la,Xuan La Ward,21.065677,105.805308
+HAN,Quận Tây Hồ,quan_tay_ho,Phường Yên Phụ,phuong_yen_phu,Yen Phu Ward,21.054045,105.840803
+HAN,Quận Tây Hồ,quan_tay_ho,Phường Bưởi,phuong_buoi,Buoi Ward,21.05159,105.81012
+HAN,Quận Tây Hồ,quan_tay_ho,Phường Thụy Khuê,phuong_thuy_khue,Thuy Khue Ward,21.046111,105.823056
+HAN,Quận Long Biên,quan_long_bien,Phường Thượng Thanh,phuong_thuong_thanh,Thuong Thanh Ward,21.066944,105.880556
+HAN,Quận Long Biên,quan_long_bien,Phường Ngọc Thụy,phuong_ngoc_thuy,Ngoc Thuy Ward,21.063333,105.856667
+HAN,Quận Long Biên,quan_long_bien,Phường Giang Biên,phuong_giang_bien,Giang Bien Ward,21.063056,105.918611
+HAN,Quận Long Biên,quan_long_bien,Phường Đức Giang,phuong_duc_giang,Duc Giang Ward,21.066111,105.896111
+HAN,Quận Long Biên,quan_long_bien,Phường Việt Hưng,phuong_viet_hung,Viet Hung Ward,21.054722,105.901389
+HAN,Quận Long Biên,quan_long_bien,Phường Gia Thụy,phuong_gia_thuy,Gia Thuy Ward,21.051667,105.887778
+HAN,Quận Long Biên,quan_long_bien,Phường Ngọc Lâm,phuong_ngoc_lam,Ngoc Lam Ward,21.047778,105.873889
+HAN,Quận Long Biên,quan_long_bien,Phường Phúc Lợi,phuong_phuc_loi,Phuc Loi Ward,21.041944,105.923611
+HAN,Quận Long Biên,quan_long_bien,Phường Bồ Đề,phuong_bo_de,Bo De Ward,21.035833,105.869444
+HAN,Quận Long Biên,quan_long_bien,Phường Long Biên,phuong_long_bien,Long Bien Ward,21.019167,105.886111
+HAN,Quận Long Biên,quan_long_bien,Phường Thạch Bàn,phuong_thach_ban,Thach Ban Ward,21.022222,105.916667
+HAN,Quận Long Biên,quan_long_bien,Phường Phúc Đồng,phuong_phuc_dong,Phuc Dong Ward,21.040708,105.89625
+HAN,Quận Long Biên,quan_long_bien,Phường Cự Khối,phuong_cu_khoi,Cu Khoi Ward,21.006667,105.899722
+HAN,Quận Cầu Giấy,quan_cau_giay,Phường Nghĩa Đô,phuong_nghia_do,Nghia Do Ward,21.046211,105.79778
+HAN,Quận Cầu Giấy,quan_cau_giay,Phường Nghĩa Tân,phuong_nghia_tan,Nghia Tan Ward,21.048056,105.785833
+HAN,Quận Cầu Giấy,quan_cau_giay,Phường Mai Dịch,phuong_mai_dich,Mai Dich Ward,21.035833,105.773056
+HAN,Quận Cầu Giấy,quan_cau_giay,Phường Dịch Vọng,phuong_dich_vong,Dich Vong Ward,21.035,105.791111
+HAN,Quận Cầu Giấy,quan_cau_giay,Phường Dịch Vọng Hậu,phuong_dich_vong_hau,Dich Vong Hau Ward,21.036583,105.785971
+HAN,Quận Cầu Giấy,quan_cau_giay,Phường Quan Hoa,phuong_quan_hoa,Quan Hoa Ward,21.036111,105.798889
+HAN,Quận Cầu Giấy,quan_cau_giay,Phường Yên Hoà,phuong_yen_hoa,Yen Hoa Ward,21.023333,105.791111
+HAN,Quận Cầu Giấy,quan_cau_giay,Phường Trung Hoà,phuong_trung_hoa,Trung Hoa Ward,21.010278,105.798889
+HAN,Quận Đống Đa,quan_dong_da,Phường Cát Linh,phuong_cat_linh,Cat Linh Ward,21.028611,105.825833
+HAN,Quận Đống Đa,quan_dong_da,Phường Văn Miếu - Quốc Tử Giám,phuong_van_mieu_quoc_tu_giam,Van Mieu - Quoc Tu Giam Ward,21.026945,105.836031
+HAN,Quận Đống Đa,quan_dong_da,Phường Láng Thượng,phuong_lang_thuong,Lang Thuong Ward,21.023333,105.802778
+HAN,Quận Đống Đa,quan_dong_da,Phường Ô Chợ Dừa,phuong_o_cho_dua,O Cho Dua Ward,21.022222,105.821667
+HAN,Quận Đống Đa,quan_dong_da,Phường Văn Chương,phuong_van_chuong,Van Chuong Ward,21.024444,105.833889
+HAN,Quận Đống Đa,quan_dong_da,Phường Hàng Bột,phuong_hang_bot,Hang Bot Ward,21.023333,105.828611
+HAN,Quận Đống Đa,quan_dong_da,Phường Láng Hạ,phuong_lang_ha,Lang Ha Ward,21.0175,105.81
+HAN,Quận Đống Đa,quan_dong_da,Phường Khâm Thiên,phuong_kham_thien,Kham Thien Ward,21.020556,105.836667
+HAN,Quận Đống Đa,quan_dong_da,Phường Thổ Quan,phuong_tho_quan,Tho Quan Ward,21.018889,105.831389
+HAN,Quận Đống Đa,quan_dong_da,Phường Nam Đồng,phuong_nam_dong,Nam Dong Ward,21.015278,105.828611
+HAN,Quận Đống Đa,quan_dong_da,Phường Quang Trung,phuong_quang_trung,Quang Trung Ward,21.012778,105.823333
+HAN,Quận Đống Đa,quan_dong_da,Phường Trung Liệt,phuong_trung_liet,Trung Liet Ward,21.011667,105.820833
+HAN,Quận Đống Đa,quan_dong_da,Phường Phương Liên - Trung Tự,phuong_phuong_lien_trung_tu,Phuong Lien - Trung Tu Ward,21.011642,105.837319
+HAN,Quận Đống Đa,quan_dong_da,Phường Kim Liên,phuong_kim_lien,Kim Lien Ward,21.0075,105.833333
+HAN,Quận Đống Đa,quan_dong_da,Phường Phương Mai,phuong_phuong_mai,Phuong Mai Ward,21.003889,105.836111
+HAN,Quận Đống Đa,quan_dong_da,Phường Thịnh Quang,phuong_thinh_quang,Thinh Quang Ward,21.009722,105.815833
+HAN,Quận Đống Đa,quan_dong_da,Phường Khương Thượng,phuong_khuong_thuong,Khuong Thuong Ward,21.002111,105.825699
+HAN,Quận Hai Bà Trưng,quan_hai_ba_trung,Phường Nguyễn Du,phuong_nguyen_du,Nguyen Du Ward,21.019444,105.843333
+HAN,Quận Hai Bà Trưng,quan_hai_ba_trung,Phường Bạch Đằng,phuong_bach_dang,Bach Dang Ward,21.015833,105.863611
+HAN,Quận Hai Bà Trưng,quan_hai_ba_trung,Phường Phạm Đình Hổ,phuong_pham_dinh_ho,Pham Dinh Ho Ward,21.016944,105.851389
+HAN,Quận Hai Bà Trưng,quan_hai_ba_trung,Phường Lê Đại Hành,phuong_le_dai_hanh,Le Dai Hanh Ward,21.013333,105.844444
+HAN,Quận Hai Bà Trưng,quan_hai_ba_trung,Phường Đồng Nhân,phuong_dong_nhan,Dong Nhan Ward,21.012349,105.856785
+HAN,Quận Hai Bà Trưng,quan_hai_ba_trung,Phường Phố Huế,phuong_pho_hue,Pho Hue Ward,21.012222,105.851667
+HAN,Quận Hai Bà Trưng,quan_hai_ba_trung,Phường Thanh Lương,phuong_thanh_luong,Thanh Luong Ward,21.007222,105.869722
+HAN,Quận Hai Bà Trưng,quan_hai_ba_trung,Phường Thanh Nhàn,phuong_thanh_nhan,Thanh Nhan Ward,21.006944,105.854167
+HAN,Quận Hai Bà Trưng,quan_hai_ba_trung,Phường Bách Khoa,phuong_bach_khoa,Bach Khoa Ward,21.00196,105.846487
+HAN,Quận Hai Bà Trưng,quan_hai_ba_trung,Phường Đồng Tâm,phuong_dong_tam,Dong Tam Ward,20.998889,105.842778
+HAN,Quận Hai Bà Trưng,quan_hai_ba_trung,Phường Vĩnh Tuy,phuong_vinh_tuy,Vinh Tuy Ward,20.999167,105.868056
+HAN,Quận Hai Bà Trưng,quan_hai_ba_trung,Phường Bạch Mai,phuong_bach_mai,Bach Mai Ward,21.001111,105.85
+HAN,Quận Hai Bà Trưng,quan_hai_ba_trung,Phường Quỳnh Mai,phuong_quynh_mai,Quynh Mai Ward,21.001667,105.857778
+HAN,Quận Hai Bà Trưng,quan_hai_ba_trung,Phường Minh Khai,phuong_minh_khai,Minh Khai Ward,20.996944,105.854444
+HAN,Quận Hai Bà Trưng,quan_hai_ba_trung,Phường Trương Định,phuong_truong_dinh,Truong Dinh Ward,20.996389,105.846389
+HAN,Quận Hoàng Mai,quan_hoang_mai,Phường Thanh Trì,phuong_thanh_tri,Thanh Tri Ward,20.994929,105.890976
+HAN,Quận Hoàng Mai,quan_hoang_mai,Phường Vĩnh Hưng,phuong_vinh_hung,Vinh Hung Ward,20.988047,105.877283
+HAN,Quận Hoàng Mai,quan_hoang_mai,Phường Định Công,phuong_dinh_cong,Dinh Cong Ward,20.983889,105.826944
+HAN,Quận Hoàng Mai,quan_hoang_mai,Phường Mai Động,phuong_mai_dong,Mai Dong Ward,20.991508,105.863566
+HAN,Quận Hoàng Mai,quan_hoang_mai,Phường Tương Mai,phuong_tuong_mai,Tuong Mai Ward,20.988537,105.847971
+HAN,Quận Hoàng Mai,quan_hoang_mai,Phường Đại Kim,phuong_dai_kim,Dai Kim Ward,20.974478,105.822178
+HAN,Quận Hoàng Mai,quan_hoang_mai,Phường Tân Mai,phuong_tan_mai,Tan Mai Ward,20.982778,105.849444
+HAN,Quận Hoàng Mai,quan_hoang_mai,Phường Hoàng Văn Thụ,phuong_hoang_van_thu,Hoang Van Thu Ward,20.985796,105.857868
+HAN,Quận Hoàng Mai,quan_hoang_mai,Phường Giáp Bát,phuong_giap_bat,Giap Bat Ward,20.984722,105.841111
+HAN,Quận Hoàng Mai,quan_hoang_mai,Phường Lĩnh Nam,phuong_linh_nam,Linh Nam Ward,20.9813,105.8947
+HAN,Quận Hoàng Mai,quan_hoang_mai,Phường Thịnh Liệt,phuong_thinh_liet,Thinh Liet Ward,20.975996,105.845906
+HAN,Quận Hoàng Mai,quan_hoang_mai,Phường Trần Phú,phuong_tran_phu,Tran Phu Ward,20.973039,105.88469
+HAN,Quận Hoàng Mai,quan_hoang_mai,Phường Hoàng Liệt,phuong_hoang_liet,Hoang Liet Ward,20.964034,105.840547
+HAN,Quận Hoàng Mai,quan_hoang_mai,Phường Yên Sở,phuong_yen_so,Yen So Ward,20.962816,105.876466
+HAN,Quận Thanh Xuân,quan_thanh_xuan,Phường Nhân Chính,phuong_nhan_chinh,Nhan Chinh Ward,21.003056,105.801944
+HAN,Quận Thanh Xuân,quan_thanh_xuan,Phường Thượng Đình,phuong_thuong_dinh,Thuong Dinh Ward,21.000278,105.814167
+HAN,Quận Thanh Xuân,quan_thanh_xuan,Phường Khương Trung,phuong_khuong_trung,Khuong Trung Ward,20.998333,105.819444
+HAN,Quận Thanh Xuân,quan_thanh_xuan,Phường Khương Mai,phuong_khuong_mai,Khuong Mai Ward,20.997222,105.829444
+HAN,Quận Thanh Xuân,quan_thanh_xuan,Phường Thanh Xuân Trung,phuong_thanh_xuan_trung,Thanh Xuan Trung Ward,20.996667,105.803889
+HAN,Quận Thanh Xuân,quan_thanh_xuan,Phường Phương Liệt,phuong_phuong_liet,Phuong Liet Ward,20.991944,105.835833
+HAN,Quận Thanh Xuân,quan_thanh_xuan,Phường Khương Đình,phuong_khuong_dinh,Khuong Dinh Ward,20.989167,105.818056
+HAN,Quận Thanh Xuân,quan_thanh_xuan,Phường Thanh Xuân Bắc,phuong_thanh_xuan_bac,Thanh Xuan Bac Ward,20.994444,105.796944
+HAN,Quận Thanh Xuân,quan_thanh_xuan,Phường Hạ Đình,phuong_ha_dinh,Ha Dinh Ward,20.991111,105.802778
+HAN,Quận Nam Từ Liêm,quan_nam_tu_liem,Phường Cầu Diễn,phuong_cau_dien,Cau Dien Ward,21.039016,105.764535
+HAN,Quận Nam Từ Liêm,quan_nam_tu_liem,Phường Xuân Phương,phuong_xuan_phuong,Xuan Phuong Ward,21.029303,105.7465
+HAN,Quận Nam Từ Liêm,quan_nam_tu_liem,Phường Phương Canh,phuong_phuong_canh,Phuong Canh Ward,21.034526,105.741872
+HAN,Quận Nam Từ Liêm,quan_nam_tu_liem,Phường Mỹ Đình 1,phuong_my_dinh_1,My Dinh 1 Ward,21.020411,105.77146
+HAN,Quận Nam Từ Liêm,quan_nam_tu_liem,Phường Mỹ Đình 2,phuong_my_dinh_2,My Dinh 2 Ward,21.026674,105.773218
+HAN,Quận Nam Từ Liêm,quan_nam_tu_liem,Phường Tây Mỗ,phuong_tay_mo,Tay Mo Ward,21.026674,105.773218
+HAN,Quận Nam Từ Liêm,quan_nam_tu_liem,Phường Mễ Trì,phuong_me_tri,Me Tri Ward,21.01187,105.77628
+HAN,Quận Nam Từ Liêm,quan_nam_tu_liem,Phường Phú Đô,phuong_phu_do,Phu Do Ward,21.014258,105.769375
+HAN,Quận Nam Từ Liêm,quan_nam_tu_liem,Phường Đại Mỗ,phuong_dai_mo,Dai Mo Ward,20.993933,105.760208
+HAN,Quận Nam Từ Liêm,quan_nam_tu_liem,Phường Trung Văn,phuong_trung_van,Trung Van Ward,20.990514,105.783129
+HAN,Quận Bắc Từ Liêm,quan_bac_tu_liem,Phường Thượng Cát,phuong_thuong_cat,Thuong Cat Ward,21.095003,105.734347
+HAN,Quận Bắc Từ Liêm,quan_bac_tu_liem,Phường Liên Mạc,phuong_lien_mac,Lien Mac Ward,21.084833,105.750146
+HAN,Quận Bắc Từ Liêm,quan_bac_tu_liem,Phường Đông Ngạc,phuong_dong_ngac,Dong Ngac Ward,21.088362,105.782485
+HAN,Quận Bắc Từ Liêm,quan_bac_tu_liem,Phường Đức Thắng,phuong_duc_thang,Duc Thang Ward,21.078151,105.775858
+HAN,Quận Bắc Từ Liêm,quan_bac_tu_liem,Phường Thụy Phương,phuong_thuy_phuong,Thuy Phuong Ward,21.090467,105.775933
+HAN,Quận Bắc Từ Liêm,quan_bac_tu_liem,Phường Tây Tựu,phuong_tay_tuu,Tay Tuu Ward,21.068032,105.729105
+HAN,Quận Bắc Từ Liêm,quan_bac_tu_liem,Phường Xuân Đỉnh,phuong_xuan_dinh,Xuan Dinh Ward,21.07124,105.791107
+HAN,Quận Bắc Từ Liêm,quan_bac_tu_liem,Phường Xuân Tảo,phuong_xuan_tao,Xuan Tao Ward,21.071063,105.799937
+HAN,Quận Bắc Từ Liêm,quan_bac_tu_liem,Phường Minh Khai,phuong_minh_khai,Minh Khai Ward,20.996944,105.854444
+HAN,Quận Bắc Từ Liêm,quan_bac_tu_liem,Phường Cổ Nhuế 1,phuong_co_nhue_1,Co Nhue 1 Ward,21.053661,105.782113
+HAN,Quận Bắc Từ Liêm,quan_bac_tu_liem,Phường Cổ Nhuế 2,phuong_co_nhue_2,Co Nhue 2 Ward,21.061439,105.781086
+HAN,Quận Bắc Từ Liêm,quan_bac_tu_liem,Phường Phú Diễn,phuong_phu_dien,Phu Dien Ward,21.053693,105.763887
+HAN,Quận Bắc Từ Liêm,quan_bac_tu_liem,Phường Phúc Diễn,phuong_phuc_dien,Phuc Dien Ward,21.046627,105.748473
+HAN,Quận Hà Đông,quan_ha_dong,Phường Quang Trung,phuong_quang_trung,Quang Trung Ward,20.966944,105.759167
+HAN,Quận Hà Đông,quan_ha_dong,Phường Mộ Lao,phuong_mo_lao,Mo Lao Ward,20.980833,105.784722
+HAN,Quận Hà Đông,quan_ha_dong,Phường Văn Quán,phuong_van_quan,Van Quan Ward,20.977222,105.791389
+HAN,Quận Hà Đông,quan_ha_dong,Phường Vạn Phúc,phuong_van_phuc,Van Phuc Ward,20.981111,106.77
+HAN,Quận Hà Đông,quan_ha_dong,Phường La Khê,phuong_la_khe,La Khe Ward,20.965833,105.758611
+HAN,Quận Hà Đông,quan_ha_dong,Phường Phú La,phuong_phu_la,Phu La Ward,20.96,105.766944
+HAN,Quận Hà Đông,quan_ha_dong,Phường Phúc La,phuong_phuc_la,Phuc La Ward,20.968333,105.7875
+HAN,Quận Hà Đông,quan_ha_dong,Phường Hà Cầu,phuong_ha_cau,Ha Cau Ward,20.965278,105.776111
+HAN,Quận Hà Đông,quan_ha_dong,Phường Yên Nghĩa,phuong_yen_nghia,Yen Nghia Ward,20.950833,105.732778
+HAN,Quận Hà Đông,quan_ha_dong,Phường Kiến Hưng,phuong_kien_hung,Kien Hung Ward,20.958333,105.789722
+HAN,Quận Hà Đông,quan_ha_dong,Phường Phú Lãm,phuong_phu_lam,Phu Lam Ward,20.943056,105.751667
+HAN,Quận Hà Đông,quan_ha_dong,Phường Phú Lương,phuong_phu_luong,Phu Luong Ward,20.936944,105.766111
+HAN,Quận Hà Đông,quan_ha_dong,Phường Dương Nội,phuong_duong_noi,Duong Noi Ward,20.980556,105.742778
+HAN,Quận Hà Đông,quan_ha_dong,Phường Biên Giang,phuong_bien_giang,Bien Giang Ward,20.930833,105.7175
+HAN,Quận Hà Đông,quan_ha_dong,Phường Đồng Mai,phuong_dong_mai,Dong Mai Ward,20.926944,105.736944
