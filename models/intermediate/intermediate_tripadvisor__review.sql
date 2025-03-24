@@ -11,7 +11,7 @@ WITH tripadvisor__review__handle_special_values AS (
         , phone_number
         , open_hour
         , price_range
-        , c.element.element AS cuisine
+        , c.element AS cuisine
         , location_rank
         , location_overall_rate
         , review_count
@@ -21,8 +21,6 @@ WITH tripadvisor__review__handle_special_values AS (
         , r.element.text AS location_description
         , r.element.title AS review_title
         , r.element.user
-        , r.element.username
-        , r.element.country AS user_country
         , FORMAT_DATE('%Y-%m-%d', PARSE_DATE('%B %e, %Y', r.element.review_date)) AS review_date
     FROM {{ ref('stg_tripadvisor__review') }}
     LEFT JOIN UNNEST(cuisine_array) AS c
@@ -49,8 +47,6 @@ WITH tripadvisor__review__handle_special_values AS (
         , CAST(location_description AS STRING) AS review_description
         , CAST(review_title AS STRING) AS review_title
         , CAST(user AS STRING) AS user
-        , CAST(username AS STRING) AS username
-        , CAST(user_country AS STRING) AS user_country
     FROM tripadvisor__review__handle_special_values
 )
 
@@ -81,8 +77,6 @@ WITH tripadvisor__review__handle_special_values AS (
         , COALESCE(review_description, 'Not Defined') AS review_description
         , COALESCE(review_title, 'Not Defined') AS review_title
         , COALESCE(user, 'Not Defined') AS user
-        , COALESCE(username, 'Not Defined') AS username
-        , COALESCE(user_country, 'Not Defined') AS user_country
     FROM tripadvisor__review__change_type
 )
 

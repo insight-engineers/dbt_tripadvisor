@@ -5,4 +5,4 @@ sources:
     database: tripadvisor-recommendations
     tables:
       - name: source_tripadvisor__api_info_v2
-      - name: source_tripadvisor__scrape_info_v2
+      - name: source_tripadvisor__scrape_info
