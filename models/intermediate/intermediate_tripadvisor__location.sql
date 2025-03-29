@@ -27,9 +27,26 @@ WITH tripadvisor__location__change_type AS (
 )
 
 , tripadvisor__location__remove_another_city AS (
-    SELECT *
+    SELECT
+        location_id
+        , location_name
+        , address
+        , country
+        , street1
+        , street2
+        , distance
+        , CASE
+            WHEN LOWER(city) LIKE '%ho%chi%minh%' THEN 'Ho Chi Minh'
+            WHEN LOWER(city) LIKE '%ha%noi%' THEN 'Ha Noi'
+            ELSE city
+        END AS city
     FROM tripadvisor__location__remove_vietnammese_accent
-    WHERE city LIKE '%Ho Chi Minh%'
+    WHERE
+        1 = 1
+        AND (
+            LOWER(city) LIKE '%ho%chi%minh%'
+            OR LOWER(city) LIKE '%ha%noi%%'
+        )
 )
 
 , tripadvisor__location__ranked AS (
