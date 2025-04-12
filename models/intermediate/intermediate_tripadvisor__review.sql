@@ -80,5 +80,14 @@ WITH tripadvisor__review__handle_special_values AS (
     FROM tripadvisor__review__change_type
 )
 
+, tripadvisor__review__filter_city AS (
+    SELECT *
+    FROM tripadvisor__review__handle_null_value
+    WHERE location_id IN (
+        SELECT DISTINCT location_id
+        FROM {{ ref('intermediate_tripadvisor__location') }}
+    )
+)
+
 SELECT *
-FROM tripadvisor__review__handle_null_value
+FROM tripadvisor__review__filter_city
